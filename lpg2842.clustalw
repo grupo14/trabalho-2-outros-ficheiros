@@ -1,0 +1,65 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Synechocystis      --------------------------------------------------------MSQT 4
+>[Mycobacterium      ---------------------------------------MTSRETRAADAAGARQADAQV 21
+>[Escherichia        ---------------------------------MVTSCTGHVLDNQRATTRGVFSSGSHL 27
+>[Legionella         MDNTNTGLKLFVLDTNILMHDPTAIYHFDEHDIYLPMVVLEELDSHKTGTSELARNVRQT 60
+>[Bacillus           MS------KIYVLDTNVLLQDPNAIFSFEENEVVIPAVVLEEVDSKKRYMDEVGRNARHV 54
+                                                                               : 
+
+>[Synechocystis      TATLPLPSPESAIALAGS------------------------------------GEDNLT 28
+>[Mycobacterium      RSSIDVP-PDLVVGLLGS------------------------------------ADENLR 44
+>[Escherichia        VTLHFQPHPFFSCVTDAV------------------------------------NGARSR 51
+>[Legionella         NRMLVELMSNATHDQIVSGLPIPSYINSSNKKCSGRLFFQTDEFDQVVPSTLPGHKVDNT 120
+>[Bacillus           SKLIDALRQKGRLHEHVP-------LDTGG---TLRIELNHRSFHQLQ-EIFIEKTNDNR 103
+                                                                                 
+
+>[Synechocystis      YLAHHTGAKLILRG----QELMVVGTEKAVARVMAVLQSLAPYWQSAKAISRPDLMTAFH 84
+>[Mycobacterium      ALERTLSADLHVRG----NAVTLCGEPADVALAERVISELIAIVASGQSLT-PEVVRHSV 99
+>[Escherichia        FSAFYPKANYGLQGS---QPSDVRAHNRAANGACDEYKQLKVLSMGRQKAVIKARREAKR 108
+>[Legionella         ILATALGLQKKYYGK---RQVIIISKDINLRIKAGILGIHAEDYYNDQVLDDVNLLH--R 175
+>[Bacillus           ILAVAKNLSLEEETKENGRPVILVSKDVLVRVKADAIGLLAEDFLNDRVVDNDEMYSGYK 163
+                             .         .   : .                    . :            
+
+>[Synechocystis      ALDTGK----------------------------------------QEEHQALQKTVLAK 104
+>[Mycobacterium      AMLVGT----------------------------------------GNESPAEVLTLDIL 119
+>[Escherichia        VLRRDS----------------------------------------RSHKQREEESVTSL 128
+>[Legionella         GLHILDNNFWDSHAKDMGSWQESGKTFYKVSGPLVSQWNPNDCLSTEDDQFQALVKKIDG 235
+>[Bacillus           DLYISQQLFSSFYGKNQ----------ISVNDVKQHAFYPN-QFALMKDELGGSSSAVGI 212
+                      :                                             ..      .    
+
+>[Synechocystis      TRRG--------------EIVRAKTFRQRQYIKAIQKHDVTFC--IGPAGTGKTFLAAVL 148
+>[Mycobacterium      SRRG--------------KTIRPKTLNQKRYVDAIDANTIVFG--IGPAGTGKTYLAMAK 163
+>[Escherichia        VQMGGVEAIGMARDSRDTSPILARNEAQLHYLKAIESKQLIFA--TGEAGCGKTWISAAK 186
+>[Legionella         PNAVVQLIRDYTQPKHSVWGITARNREQNFSLNLLLDPDIDFVSLQGSAGTGKTLLTIAA 295
+>[Bacillus           ADKTGTVLKRLVFDDEHIWGIRPKNVQQTMALELLLREDIPLVTLIGKAGTGKTLLALAA 272
+                                         : .:.  *   :. :    : :    * ** *** :: . 
+
+>[Synechocystis      AVQALLN-NECDRLILTRPAVEAGEKLGFLPGDLQQKVDPFLRPLYDALYEFIEPEK--- 204
+>[Mycobacterium      AVHALQT-KQVTRIILTRPAVEAGERLGFLPGTLSEKIDPYLRPLYDALYDMMDPEL--- 219
+>[Escherichia        AAEALIH-KDVDRIIVTRPVLQADEDLGFLPGDIAEKFAPYFRPVYDVLVRRLGASF--- 242
+>[Legionella         GLTQVMDQNRYSEILMTRVTIPVGEDIGFLPGTEEEKMTPWMGALMDNLEVLHSSQVGGS 355
+>[Bacillus           GLLQTEDLGIYKKLVVARPIVPVGKDIGYLPGEKEEKLKPWMQPIFDNLEFLFNAKKPGE 332
+                     .           .::::*  : ..: :*:***   :*. *:: .: * *     ..    
+
+>[Synechocystis      --IPDLME--RGKIEVAPLAYMRGRTLTNAFVIVDEAQNTTPAQLKMVLTRLGFGSKMIV 260
+>[Mycobacterium      --IPKLMS--AGVIEVAPLAYMRGRTLNDAFIVLDEAQNTTAEQMKMFLTRLGFGSKVVV 275
+>[Escherichia        --MQYCLRPEIGKVEIAPFAYMRGRTFENAVVILDEAQNVTAAQMKMFLTRLGENVTVIV 300
+>[Legionella         FGRGATQDLLQNKIKIRSLNFMRGRTFLNRYIIIDEAQNLTSKQIKTLVTRAGPGSKIIC 415
+>[Bacillus           LD--AILAGIG-SIQVEALTYIRGRSIPDQFIIIDEAQNLTRHEVKTLLTRVGEGSKIVL 389
+                                  ::: .: ::***:: :  :::***** *  ::* .:** * . .:: 
+
+>[Synechocystis      TGDITQTDLP--NYQKSGLQVAQTILKDVEGVAFCYLNQADVVRHPLVQRIVEAYERSEN 318
+>[Mycobacterium      TGDVTQIDLP--GGARSGLRAAVDILEDIDDIHIAELTSVDVVRHRLVSEIVDAYARYEE 333
+>[Escherichia        NGDITQCDLP--RGVCSGLSDALERFEEDEMVGIVRFGKEDCVRSALCQRTLHAYS---- 354
+>[Legionella         LGDIKQIDTPYLTETTSGLTFAVDRFKSWEHSAHMTLTRG--ERSRLAFYAAEHL----- 468
+>[Bacillus           MGDPEQIDHPYLDSLNNGLAYVVERFKGQPISGSVKLLKG--ERSGLAQLAADLL----- 442
+                      **  * * *      .**  .   ::         :      *  *     .       
+
+>[Synechocystis      TSP---PAPKPSS------ 328
+>[Mycobacterium      PGSGLNRAARRASGARGRR 352
+>[Escherichia        -------------------
+>[Legionella         -------------------
+>[Bacillus           -------------------
+                                        
