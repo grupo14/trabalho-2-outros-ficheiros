@@ -1,0 +1,164 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Escherichia      ------------------------------------------------------------
+>[Haemophilus      ------------------------------------------------------------
+>[Neisseria        ------------------------------------------------------------
+>[Bordetella       ------------------------------------------------------------
+>[Legionella       ------------------------------------------------------------
+>[Bacillus         ------------------------------------------------------------
+>[Pongo            MSSLPRRAKVQVQGVVLKDEFSSFSELSSASEEDDKEDSAWEPQKKVPRSRKQPPPKESK 60
+                                                                               
+
+>[Escherichia      ------------------------------------------------------------
+>[Haemophilus      ------------------------------------------------------------
+>[Neisseria        ------------------------------------------------------------
+>[Bordetella       ------------------------------------------------------------
+>[Legionella       ------------------------------------------------------------
+>[Bacillus         ------------------------------------------------------------
+>[Pongo            PKRMPQVKKNAPQISDGSEVVVVKEELNSSVAIADTALEDRKNKLNTVQTLKTAKTKRKC 120
+                                                                               
+
+>[Escherichia      ------------------------------------------------------------
+>[Haemophilus      ------------------------------------------------------------
+>[Neisseria        ------------------------------------------------------------
+>[Bordetella       ------------------------------------------------------------
+>[Legionella       ------------------------------------------------------------
+>[Bacillus         ------------------------------------------------------------
+>[Pongo            AAQPHAVRRTKKLKVDEETSKASYLEGESNSSETPSTSTVWGGTCKKEENDDEFTFGQSP 180
+                                                                               
+
+>[Escherichia      ----------------------------MMNDSFCRIIAGEIQARPEQVDAAVRLLDEGN 32
+>[Haemophilus      ----------------------------MLNQQISQIIAAELTVQPQQIFAAIQLLDDGN 32
+>[Neisseria        -------------------------------MNITQILSQELSATAAQITAAVELLDDGA 29
+>[Bordetella       ---------------MPETSATTNAAPGVDHARIIAQLATEIGARASQVASAVELLDDGA 45
+>[Legionella       --------------------------MAEVMLASAAIIADELKVKVSQVETAIRLLDEGA 34
+>[Bacillus         ---------------------------METSALLKQQIAKEIGLSQKHVESVIRLLEDGN 33
+>[Pongo            LKKIKTETCPQGQPVKFPANANHIKEEVEMNWDIVQVLSERTNIEPWVCTNTIRLFNDDN 240
+                                                        :: .          .:.*:::. 
+
+>[Escherichia      TVPFIARYRKEITGGLDDTQLRNLETRLSYLRELEERRQAILKSISEQGKLTDDLAKAIN 92
+>[Haemophilus      TIPFIARYRKEATGGLDDTQLRHFETRLIYLRELEDRRQTILKSIEEQGKLTDELRDKIH 92
+>[Neisseria        TVPFIARYRKEATGGLDDTQLRRLAERLQYLRELEERKAVVLKSIEEQGKLSDDLRAQIE 89
+>[Bordetella       TVPFIARYRKEATGGLDDGALRTLEVRLGYLRELEERRGAILESITQQGKLTPELQQEIA 105
+>[Legionella       TVPFIARYRKEATGGLDDVQLRFLAERLIYLRELDERRTVILQSIREQEKLTPELEQSIL 94
+>[Bacillus         TVPFIARYRKEQTGSMDEVQIQTISERWQYIQNLNQRKEEVIRLIAEQDKLTDNLKRKIE 93
+>[Pongo            TIPFIIRYRKELINNLDADSLREVQQTLEELRAVAKKVHSTIQKIKKEGKMSECLLKAML 300
+                   *:*** *****  ..:*   :: .      :: : .:    :. * :: *::  *   : 
+
+>[Escherichia      ATLSKTELEDLYLPYKP-KRRTRGQIAIEAGLEPLADLLWSDPSHT-PEVAAAQYVYADK 150
+>[Haemophilus      ATQSKTELEDLYLPYKP-KRRTKGQIAIEAGLEPLANLLWNEPKND-PESTALSFVDAEK 150
+>[Neisseria        AADNKTALEDLYLPYKP-KRRTKAQIAREHGLQPLADVLLAEQSQD-VEAAAQGYLNEN- 146
+>[Bordetella       TAETKQRLEDLYAPYKP-KRRTRAQIAREAGLEPLADAILADPACD-PAALAAQYLNPEA 163
+>[Legionella       AAETKTRLEDLYLPYRP-KRRTKAQIAIEAGLEPLAHALWKDPALD-PEEQASQFINSEA 152
+>[Bacillus         QSVKLQEVEDLYRPYKQ-KRKTKATVAKSKGLEPLADYILTLPQDDHLAATADQYISEEK 152
+>[Pongo            NCKTFEELEHVSAPYKTGSKGTKAQRARQLGLEGAARALLEKPGEL---SLLSYIRPDVK 357
+                      .   :*.:  **:  .: *:.  * . **:  *  :                     
+
+>[Escherichia      GVADTKAALDGARYILMERFAEDAALLAKVR-----DYLWKNAHLVSTVVSGKEE-EGAK 204
+>[Haemophilus      GVADSKAALDGARIILMERFAEDAGLLAKVR-----DYLAKNAVIVSKVIEGKET-EGAK 204
+>[Neisseria        -VPDAKAALDGARAILMEQFAEDAELIGTLR-----DKLWNEAEIHAQVVGGKET-EGEK 199
+>[Bordetella       SINDAKAALDGARDILAERHAENADLLADIR-----EHLWSTGLLYSKMVEGKET-DGAN 217
+>[Legionella       GIENTQAALDGARHILMEHFAEDAELINELR-----EYLWQHGIVKSVGNSTKKD-QANK 206
+>[Bacillus         EVFTREEAIEGAKHIIAEQISDEPTFRKWIR-----QETFKRGTIKSAAGKSADTDEKNV 207
+>[Pongo            GLSTLQDIEIGAQHILADMIAKDKGTLDFIRNLCQNRHVCIQSSLAKVSSKKVNEKDVDK 417
+                    :   :    **: *: :  :.:      :*           . :        .  :   
+
+>[Escherichia      FRDYFDHHEPLSTVPSHRALAMFRGRNEGVLQLSLNADPQFDEPPKESYCEQIIMDHLGL 264
+>[Haemophilus      FQDYFDHQELLKNVPSHRALAMFRGRNEGILQLSLNADPDAEEGSRQSYCEEIIRDYLDV 264
+>[Neisseria        FSDYFDHREPIRAMPSHRALAVLRGRNEGVLNIALKYQPDDTPITQQSEYEQIIAR---- 255
+>[Bordetella       FRDWFDFNEPLRTLPSHRILALMRGRQQGVLELRVGLEADLEAETPHP-CVVRIASFLKL 276
+>[Legionella       FSDYFDYSEAIKKIPSHRALALFRGRREGILQVSLVLPDQ-----DANYGENKVAAYFNV 261
+>[Bacillus         YEMYYEYEEPIAKVVPHRVLAMNRGEKEDILKVAIEPPAD----HIKAYLEKQIIK---- 259
+>[Pongo            FLLYQHFSCNIRNIHHHQILAINRGENLKVLTVKVNISDG----VKDEFCRWCIQNRWRP 473
+                   :  : ..   :  :  *: **: **..  :* : :                  :      
+
+>[Escherichia      -----RLNNAPADSWRKGVVSWTWRIKVLMHLETELMGTVRERAEDEAINVFARNLHDLL 319
+>[Haemophilus      -----RFTGQPADKWREQVIAWTWKIKVSLHLETELMASLREKAEEEAIDVFARNLTALL 319
+>[Neisseria        -----RFKVSDGHKWLRDTVRLTWRAKIFLSLELEALNRLKEAADTDAITVFARNLKDLL 310
+>[Bordetella       GNGLFALDATPRARWLGEVCRWTWRVKLLTAFESELFGRLRESAEAEAIRVFAANLKDLL 336
+>[Legionella       -----TDRQRKADGWLIDTVRMTWKIKLFTKLELELLTRLREIADEEAIKVFSKNLRDLL 316
+>[Bacillus         ------NRSTSVREILQETIEDSYKRLIQPAIEREIRKELSEKADEQAIHIFSENLRKLL 313
+>[Pongo            R----SFARPELMKILRNSLNDSFKRLIYPLLCREFRAKLTSDAEKESVMMFGRNLRQLL 529
+                                         :::  :   :  *    : . *: ::: :*. **  **
+
+>[Escherichia      MAAPAGLRATMGLDPGLRTGVKVAVVDATGKLVATDTIYPHTGQ--AAKAAMTVAALCEK 377
+>[Haemophilus      MAAPAGAKSTMGLDPGLRTGVKVAMVDNTGKLLDTTTIYPHTGR--EAEAQVAIFSLIRK 377
+>[Neisseria        LAAPAGRLTTLGLDPGYRNGVKCAVVDDTGKLLDTVIVYLHQ----ENNMLATLSRLIKQ 366
+>[Bordetella       LAAPAGPKTVLGLDPGIRTGCKVAVIDRTGKVVDTATVYPFEPRRDREGTIKTLAALAAR 396
+>[Legionella       LAAPAGPQVTIGLDPGIRTGVKVVVVDATGKLLDYSVIFPFAPQNEWHQSIADLAKLAAK 376
+>[Bacillus         LQPPMKGKTVLGVDPAFRTGCKLAVSDETGKVLKIDVIYPHAPVNKTKEAHEKVKKILEQ 373
+>[Pongo            LTSPVPGRTLMGVDPGYKHGCKLAIISPTSQILHTDVVYLHCGQG--FREAEKIKMLLLN 587
+                   : .*      :*:**. : * * .: . *.:::    :: .            :  :  .
+
+>[Escherichia      HNVELVAIGNGTASRETERFYLDVQK--QFPKVTAQKVIVSEAGASVYSASELAAQEFPD 435
+>[Haemophilus      HNVELIAIGNGTASRETERFAKDVIK--EIKENKPQTVVVSEAGASVYSASEFAANEFPN 435
+>[Neisseria        HGVKLIAIGNGTASRETDKIAGELVR--EMSKMGLHKIVVSEAGASIYSASELAAREFPD 424
+>[Bordetella       HKVELIAIGNGTASRESEKLVGDMMA--RFPDLALTRVVVSEAGASVYSASETAALEFPD 454
+>[Legionella       YQVNLISIGNGTGSRETERLVADLIK--MYPDLKLTKIIVSEAGASVYSASEIAANEFPD 434
+>[Bacillus         YQVEMVAIGNGTASRETEQFIVNVLR--DMPR-KIYYVIVNEAGASVYSASELAREEFPD 430
+>[Pongo            FNCSTVVIGNGTACRETEAYFADLIMKNYFAPLDVVYCIVSEAGASIYSVSPEANKEMPG 647
+                   .  . : *****..**::    ::              :*.*****:**.*  *  *:*.
+
+>[Escherichia      LDVSLRGAVSIARRLQDPLAELVKIDPKSIGVGQYQHDVSQTQLARKLDAVVEDCVNAVG 495
+>[Haemophilus      LDVSLRGAVSIARRLQDPLAELVKIEPKAIGVGQYQHDVNQTQLARKLDAVVEDCVNAVG 495
+>[Neisseria        LDVSLRGAVSIARRLQDPLAELVKIDPKSIGVGQYQHDVNQSQLAKSLDAVVEDCVNAVG 484
+>[Bordetella       LDVTLRGAVSIARRLQDPLAELVKIDPKAIGVGQYQHDVNQRELARSLDAVVEDCVNAVG 514
+>[Legionella       LDVSLRGAVSIARRLQDPLAELVKIEAKSIGVGQYQHDVNQAKLARCLDGVVEDCVNAVG 494
+>[Bacillus         LKVEERSAVSIARRLQDPLAELVKIDPKSVGVGQYQHDVSQKRLNESLRFVVETVVNQVG 490
+>[Pongo            LDPNLRSAVSIARRVQDPLAELVKIEPKHIGVGMYQHDVSQTLLKATLDSVVEECVSFVG 707
+                   *.   *.*******:**********:.* :*** *****.*  *   *  ***  *. **
+
+>[Escherichia      VDLNTASVPLLTRVAGLTRMMAQNIVAWRDENGQFQNRQQLLKVSRLGPKAFEQCAGFLR 555
+>[Haemophilus      VDLNTASAPLLARVAGMTKTLAQNIVEYRDENGRFESRSELKKVPRLGPKAFEQCAGFMR 555
+>[Neisseria        VDVNTASAPLLARISGLNQTLAQNIVAYRDENGAFDSRKKLLKVPRLGEKTFEQAAGFLR 544
+>[Bordetella       VDVNTASAALLARVSGLNTLLAKNIVAWRDENGAFPTRDMLRKVPRFGEKAFEQAAGFLR 574
+>[Legionella       VDINTASAALLSHISGLNDTLAKNIVQFRDEHGAFTNRNQLKNIHRMGEKAFQQAAGFLR 554
+>[Bacillus         VNVNTASAALLQYVAGLSKSVAGNVVKKREEIGKFSNRKELKDIPRLGAKTYEQCIGFLR 550
+>[Pongo            VDINICSEVLLRHIAGLNANRAKNIIEWREKNGPFINREQLKKVKGLGPKSFQQCAGFIR 767
+                   *::* .*  **  ::*:.   * *::  *:: * * .*. * .:  :* *:::*. **:*
+
+>[Escherichia      INHG------------------------------------------------DNPLDAST 567
+>[Haemophilus      IANG------------------------------------------------KNPLDASG 567
+>[Neisseria        INGG------------------------------------------------KEPLDASA 556
+>[Bordetella       IPNG------------------------------------------------DNPLDASA 586
+>[Legionella       IMNG------------------------------------------------DNALDASC 566
+>[Bacillus         VQEG------------------------------------------------TEPLDRTG 562
+>[Pongo            INQDYIQTFCSQQTETSGQIQGVAVTSSADVEVTNEKQGKKKSKTVANVLLKPNPLDQTC 827
+                   :  .                                                 :.** : 
+
+>[Escherichia      VHPEAYPVVERILAATQQALKDL--MGNSSELRNLKASD----FTDEK-FGVPTVTDIIK 620
+>[Haemophilus      VHPEAYPVVEKILQATAQSIQDL--MSNAGVVRQLDAKQ----FIDEQ-FGLPTVQDIFK 620
+>[Neisseria        VHPEAYPVVAKMLAQQGISAAEL--IGNRERVKQIKASD----FTDER-FGLPTILDILS 609
+>[Bordetella       VHPEAYPVVERIVARIKADVRHI--IGQREALKGVSPSD----FTDER-FGLPTVRDIFA 639
+>[Legionella       VHPEAYPLVEKIISDKKVSIKEI--IGNRELLQSINAEQ----YVDEN-FGLPTIRDVLR 619
+>[Bacillus         IHPESYKETKALLKKLGLSTEHIGTAELKDKINQLALSE----TAKELGIGEITLKDICE 618
+>[Pongo            IHPESYDIAMRFLSSIGGTLYEIGKPEMQQKINSFLEKEGMEKIAERLQTTVHTLQVIID 887
+                   :***:*  .  ::        .:        :. .  .:      ..      *:  :  
+
+>[Escherichia      ELEKP-GRDPRPEFKTAQFADGVETMNDLQPGMILEGAVTNVTNFGAFVDIGVHQDGLVH 679
+>[Haemophilus      ELEKP-GRDPRGEFKTAVFAEGVEEITDLKSGMILEGTVTNVTNFGAFVDIGVHQDGLVH 679
+>[Neisseria        ELEKP-GRDPRGEFQTASFAEGIHEISDLQVGMILEGVVSNVANFGAFVDIGVHQDGLVH 668
+>[Bordetella       ELEKP-GRDPRPEFKTAQFKEGVETLNDLFPGMVLEGVVTNVANFGAFVDIGVHQDGLVH 698
+>[Legionella       ELEKP-GRDPRPEFRTAQFQEGVEDIKDLEQGMVLEGVVSNVTNFGAFVDIGVHQDGLVH 678
+>[Bacillus         QLTRP-ERDPRDKVPKPLLKTDVLQLEDLKEGMELQGTVRNVVDFGAFVDIGVKQDGLVH 677
+>[Pongo            GLSQPESFDFRTDFDKPDFKRSIVCLKDLQVGTVLTGKVENATLFGIFVDIGVGKSGLIP 947
+                    * :*   * * .. .. :  .:  : **  *  * * * *.. ** ****** :.**: 
+
+>[Escherichia      ISSLSNKFVEDPHT----VVKAGDIVKVKVLEVDLQRKRIALTMRLDEQPG--------- 726
+>[Haemophilus      ISSLSDKFVEDPHQ----VVKTGNIVKVKVLEVDVPRKRIALTMRLDESAV--------- 726
+>[Neisseria        ISALSNKFVQDPRE----VVKAGDVVKVKVLEVDAARKRIALTMRLDDEPG--------- 715
+>[Bordetella       ISALAEKFVKDPRD----VVRVGQTVTVKVLEVDVARKRVALTMRLNDAAE--------- 745
+>[Legionella       ISAMTNRFITDPRS----VVKAGDIVKVKVVEVDKERRRIGLSMKLNDEQAPAVLQKANK 734
+>[Bacillus         ISKLSNQFVKHPLD----VVSVGDIVTVWVDGVDVQKGRVSLSMVK-------------- 719
+>[Pongo            IRNVTEAKLSKTKKRRSLGLGPGERVEVQVLNIDIPRSRITLDLIRVL------------ 995
+                   *  :::  : ..       :  *: * * *  :*  : *: * :                
+
+>[Escherichia      ------ETNARRGG-GNERPQNNRPAAKPRGREAQ-PAGNSAMMDALAAAMGKKR 773
+>[Haemophilus      ------KNDSK-----SDRTLSTRPRGNMQREARN-SRGNNVIGNAFA------- 762
+>[Neisseria        ------GAKHKMP---SENRSRERTAGRKPQRNDR-APANSAMADAFAKLKR--- 757
+>[Bordetella       ------PARRGNGAGAGAARGADRGARRPQADNGKGAPANSAMADAFAKLKR--- 791
+>[Legionella       PQPARKQAEQKQPEFKKKQEHKKKPDKIKKSEPVKKTVFNTAMADALAKLKRGGE 789
+>[Bacillus         -------------------------------------------------------
+>[Pongo            -------------------------------------------------------
+                                                                          
