@@ -1,0 +1,65 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Arabidopsis      ------------------------------------------------------------
+>[Brassica         PPKPQPKPPPKPQPKPPPAPTPSPCPPQPPKPQPKPPPAPTPSPCPPQPPKPQPKPPPAP 60
+>[Legionella       -------------------------------------MIQNNRICRWLFIVLLSLPLVGF 23
+>[Aeromonas        ------------------------------------------------------------
+>[Vibrio           -----------------------------------------MMKKTITLLTALLPLASAV 19
+                                                                               
+
+>[Arabidopsis      --------------------------MSTSKTIVFGLFVATLLVSCNVAANATTQP---- 30
+>[Brassica         GPSPKPGPSPSPPKPPPSPAPKPVPPPSPSPKPSPPKPPAPSPKPSPPKPPAPSPPKPQN 120
+>[Legionella       TSIPVKSIVVFGDSLSDNGNTTHLLKSLRQEEDPAFLVAPFKIFVINKMIEFANDYYVPQ 83
+>[Aeromonas        ---------------------------MKKWFVCLLGLVALTVQAADSRP---------- 23
+>[Vibrio           AEEPTLSPEMVSASEVISTQENQTYTYVRCWYRTSYSKDDPATDWEWAKNEDGSYFTIDG 79
+                                                                               
+
+>[Arabidopsis      -LFPAILIFGDSTVDTGNNNYHSQTIFKAKHLPYGVDLPGHEANGRYSNGKVISDVIASK 89
+>[Brassica         KTIPAVFFFGDSIFDTGNNN-NLDTKLKCNYRPYGMDFPMGVATGRFSNGRVASDYISKY 179
+>[Legionella       IVLDAGISAVTDFFDHDLAPYLANLVGKVKQVPVLPGKPYWKN--RFSNGRVWIEYLAEM 141
+>[Aeromonas        -AFSRIVMFGDSLSDTGKMYSKMRGYLPS-------SPPYYEG--RFSNGPVWLEQLTNE 73
+>[Vibrio           YWWSSVSFKNMFYTNTSQNVIRQRCEATLDLANENADITFFAADNRFSYNHTIWSNDAAM 139
+                                 : .                   . .      *:* . .  .  :  
+
+>[Arabidopsis      LN--IKELVP-PFLQPNIS------HQDIVTGVSFASAGAGYDDRSSLSSKAIPVSQQPS 140
+>[Brassica         LG--VKEIVP-AYVDKKLQQNNELQQSDLLTGVSFASGGAGYLPQTSESWKVTTMLDQLT 236
+>[Legionella       LS--IQKSDEEVYLNKAFGGSWSATYDYQLTVWNLIRHPLGTIKNLIVGKLIPPSLG--L 197
+>[Aeromonas        FP--GLTIAN-----------------------EAEGGPTAVAYNKISWNPKYQVINNLD 108
+>[Vibrio           QPDQINKVVALGDSLSDTGNIFNASQWRFPNPNSWFLGHFSNGFVWTEYIAKAKNLPLYN 199
+                                                    .      .                   
+
+>[Arabidopsis      MFKNYIARLKGIVGDKKAMEIINNALVVISAGPN-DFILNFYDIPTRRLEYPTIHGYQEF 199
+>[Brassica         YFQDYKKRMKKLVGKKKTKKIVSKGAAIVVAGSN-DLIYTYFGNGAQHLKN-DVDSFTTM 294
+>[Legionella       IVQAYLLEHEQLS---------DETLYFIYSGSN-DYINVLFFEDN--YNTEVMSTYIDN 245
+>[Aeromonas        YEVTQFLQKDSFK---------PDDLVILWVGAN-DYLAYGWNTEQD----------AKR 148
+>[Vibrio           WAVGGAAGENQYIALTGVGEQVSSYLTYAKLAKNYKPANTLFTLEFGLNDFMNYNRGVPE 259
+                            .             .       . * .     :                  
+
+>[Arabidopsis      ILKRLDGFVRELYSLGCRNIVVGGLPPMGCLPIQMTAKMRNILRFCVEQENKDSVLYNQK 259
+>[Brassica         MADSAASFVLQLYGYGARRIGVIGTPPIGCTPSQRVKKKK----ICNEDLNYAAQLFNSK 350
+>[Legionella       VLDGLSSAVLKLANAGARRFVIMGIPHVGDTPKFVKTTDR-------DVLNAAVDLHNER 298
+>[Aeromonas        VRDAISDAANRMVLNGAKEILLFNLPDLGQNPSARSQKVV-------EAASHVSAYHNQL 201
+>[Vibrio           VKADYAEALIRLTDAGAKNFMLMTLPDATKAPQFKYSTQE-------EIDKIRAKVLEMN 312
+                   :         .:   *.:.: :   *     *     .         :  .      :  
+
+>[Arabidopsis      LVKKLPEIQASLPGSNFLYANVYDPLMDMIQNPSKYGFKETKKGCCGTG----------- 308
+>[Brassica         LVIILGQLSKTLPNSTIVYGDIYSIFSKMLESPEDYGFEEIKKPCCKIG----------- 399
+>[Legionella       LAKRIDAWKERYPTADFLFVNTEQYLKKAFEDPEKYGFYNVKDACIDVKFPMFNAFIHSP 358
+>[Aeromonas        LLN---LARQLAPTGMVKLFEIDKQFAEMLRDPQNFGLSDTENACYGGSYVWKPFASRSA 258
+>[Vibrio           EFIKAQAMYYKAQGYNITLFDTHALFETLTSAPEEHGFVNASDPCLDINRS--------- 363
+                                   .   :    :      *...*: : .. *               
+
+>[Arabidopsis      ----------------------YLETTFMCNP-LTKTCPNHSDHLFWDSIHPSEAAYNYI 345
+>[Brassica         ----------------------LTKGGVFCKERTLKNMSNASSYLFWDGLHPSQRAYEIS 437
+>[Legionella       FARNYVLQYTQV--------LQYRDKQFAPGENNYHMCSEPEDYLFWDEIHPTTRAHNYL 410
+>[Aeromonas        STDSQLSAFNPQERLAIAGNPLLAQAVASPMAARSASTLNCEGKMFWDQVHPTTVVHAAL 318
+>[Vibrio           ---------------------SSVDYMYTHALRSECAASGAEKFVFWDVTHPTTATHRYV 402
+                                           .                .  :***  **:  .:   
+
+>[Arabidopsis      GNFVDAQIRGWIKA--------- 359
+>[Brassica         NRKLVKKYIHFI----------- 449
+>[Legionella       AYEVCMALEEHGYEVTCKMPESA 433
+>[Aeromonas        SEPAATFIESQYEFLAH------ 335
+>[Vibrio           AEKMLESSNNLAEYRF------- 418
+                                          
