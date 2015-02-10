@@ -1,0 +1,79 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Arabidopsis      ------------------------------------------------------------
+>[Solanum          ------------------------------------------------------------
+>[Momordica        ------------------------------------------------------------
+>[Nicotiana        ------------------------------------------------------------
+>[Rhizopus         ------------------------------------------------------------
+>[Escherichia      ------------------------------------------------------------
+>[Legionella       MGLPKTSQDVVMIKPITLLLLFCSFTVNASILVNGTFEATKSCPAYLSKNRKSNPDNLMV 60
+>[Aeromonas        ------------------------------------------------------------
+>[Haemophilus      -------------MKKLTSILSLIVLVILAIWQYFTDTTKTKHQSSSPVIEQTKQTKVSE 47
+                                                                               
+
+>[Arabidopsis      ---------------------------MKILLASLCLISLLVILPSVFSASSSSEDFDFF 33
+>[Solanum          ----------------------------MASNSAFSLFLILLIITQCLSVLNAAKDFDFF 32
+>[Momordica        --------------------------------------------------------FDSF 4
+>[Nicotiana        ---------------------------MLNSPLTSVLFVLLFVLSPIYG------AFEYM 27
+>[Rhizopus         ------------------------------MKAVLALATLIGSTLASSCSSTALSCSNSA 30
+>[Escherichia      -----------------------MKAFWRNAALLAVSLLPFSSANALALQAKQYGDFDRY 37
+>[Legionella       EPNQKYQLKEINKTKPDWLRIQFSDHQPNLRWVSVDCGVIEYTERPKASCDLSPGMADSY 120
+>[Aeromonas        ----------------------------MKKIVVLLGMLLAPWFSSAVQAKGEAGEFDYY 32
+>[Haemophilus      PKFEPKFEPKFEPKFEPQFETKRTDIEKSAVKNPDVFANYDVIMRNDHIGQNAKAPVDYY 107
+                                                                            :  
+
+>[Arabidopsis      YFVQQWPGSYCDTQKKCCY---------PNSGKPAADFGIHGLWPNYKDGTYPSNCDASK 84
+>[Solanum          YFVQQWPGSYCDTKQSCCY---------PTTGKPAADFGIHGLWPNNNDGTYPSNCDPNS 83
+>[Momordica        WFVQQWPPAVCSFQKSGSC---------PGSG--LRTFTIHGLWPQ-GSGTSLTNCPQGS 52
+>[Nicotiana        QLVLQWPTAFCHTTP---------------CKRIPNNFTIHGLWPD-NVSTTLNYCAAKE 71
+>[Rhizopus         NSDTCCSPEYGLVVLNMQW---------APGYGPDNAFTLHGLWPDKCSGAYAPSGGCDS 81
+>[Escherichia      VLALSWQTGFCQSQHDRNRNERDECRLQTETTNKADFLTVHGLWPGLPKSVAARGVDERR 97
+>[Legionella       VLALSSQPGFCETYGYEIG--KPECLKLTKTVYQANHLILHGLWPNQEACGHNYGYCGIS 178
+>[Aeromonas        AMALSWSPEHCAIKPADRD-----------QCSRQLGFVLHGLWPQYQRGYPSS------ 75
+>[Haemophilus      MLALSWSPGFCDIQREKYGDQLPYSSQYQCGNNRTFGWVVHGLWPQNANARAVSDHPR-- 165
+                                                          :*****               
+
+>[Arabidopsis      PFDSSTISDLLTSMKKSWPTLACPS--------------------GSGEAFWEHEWEKHG 124
+>[Solanum          PYDQSQISDLISSMQQNWPTLACPS--------------------GSGSTFWSHEWEKHG 123
+>[Momordica        PFDITKISHLQSQLNTLWPNVLR----------------------ANNQQFWSHEWTKHG 90
+>[Nicotiana        NFKNIEDDTKKDDLYKRWPDLTTAETYC-----------------KQHQNFWRHEYNKHG 114
+>[Rhizopus         NRASSSIASVIKSKDSSLYNSMLTYWPSNQ---------------GNNNVFWSHEWSKHG 126
+>[Escherichia      WMRFGCATRPIPNLPEARASRMCSSPETGLSLETAAKLSEVMPGAGGRSCLERYEYAKHG 157
+>[Legionella       PRTNHCDYSPLDLSSDVAQNLKKLMPSY-----------------NYGSCLERHEWNKHG 221
+>[Aeromonas        ----CTRERLDPAMEQEFAGLYP------------------------SRFLYRHEWEKHG 107
+>[Haemophilus      -FCKGDLPALPKGLLAQYLAISP------------------------GEKLLQGEWEKHG 200
+                                                                     :   *: ***
+
+>[Arabidopsis      TCSESVID-----------QHEYFQTALNLKQKTNLLGALTKAGINPD-GKSYSLESIRD 172
+>[Solanum          TCAESVLTN----------QHAYFKKALDLKNQIDLLSILQGADIHPD-GESYDLVNIRN 172
+>[Momordica        TCSESTFN-----------QAAYFKLAVDMRNNYDIIGALRPHAAGPN-GRTKSRQAIKG 138
+>[Nicotiana        KCCSESYN-----------REQYFDLAMALKDKFDLLSSLRNHGIIPGRGMKYTVQKINS 163
+>[Rhizopus         TCVSTYDPDCYDNYEEGEDIVDYFQKAMDLRSQYNVYKAFSSNGITPG--GTYTATEMQS 184
+>[Escherichia      ACFGFDPD-------------AYFGTMVRLNQEIKESEAGKFLADNYG--KTVSRRDFDA 202
+>[Legionella       SCQDLSTDG-------------YFSLAMRLTTEVNNTEFGQYLTAHRG--DTVKLTTLRE 266
+>[Aeromonas        TCSGLSQHD-------------FHQLASDLRQKREDPGRLSVSCRAAA-QKPLPAQGGSG 153
+>[Haemophilus      SCAFDSAQQ-------------YFAKEQELFNALKLPNQKLSRDELFGWMKQHNPQLKNA 247
+                    *                    :.     :    .                         
+
+>[Arabidopsis      SIKESIG----FTPWVECNRD-GSGNSQLYQVYLCVDRSGSGLIECPVFPHGKCG---AE 224
+>[Solanum          AIKSAIG----YTPWIQCNVD-QSGNSQLYQVYICVDGSGSSLIECPIFPGGKCG---TS 224
+>[Momordica        FLKAKFG----KFPGLRCRTDPQTKVSYLVQVVACFAQDGSTLIDC---TRDTCG---AN 188
+>[Nicotiana        TIKKITQ----GYPNLSCTKG----IMELVEIGICFDSMVKNVINCPHPKTCKPTG-SNE 214
+>[Rhizopus         AIESYFG----AKAKIDCSSG----TLSDVALYFYVRGRDTYVITDALSTGSCSG----D 232
+>[Escherichia      AFAKSWGKENVKAVKLTCQGN--PAYLTEIQISIKADAINAPLSANSFLPQPHPGN-CGK 259
+>[Legionella       LIKRSFGENNTGKVTLSCKNGILVDIYVQLPALIPFKESLESLVDKASHSQHHDYC-NSN 325
+>[Aeromonas        QCQRLAG-------PGQHHGGLRRRWRFLREVYICLNKEGTDAVTCSDEMQKRELPSCGQ 206
+>[Haemophilus      YLRASRN-----------------------ELFICYDKKWQVMNCQSK------------ 272
+                                                                               
+
+>[Arabidopsis      IEFPSF------ 230
+>[Solanum          IEFPTF------ 230
+>[Momordica        FIF--------- 191
+>[Nicotiana        IKFP-------- 218
+>[Rhizopus         VEYPTK------ 238
+>[Escherichia      TFVIDKAGY--- 268
+>[Legionella       VTISDFSNEKWL 337
+>[Aeromonas        PDFLLRTVR--- 215
+>[Haemophilus      ------------
+                               
