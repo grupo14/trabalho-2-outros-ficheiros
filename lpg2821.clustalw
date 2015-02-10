@@ -1,0 +1,102 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Leishmania         MLSRLSERCTIATGLEQVLRHYVWSAAWLRDAEPAAAASENIDLSGLMERAGRAAYDVFA 60
+>[Escherichia        MTDHTMKKNPVS------IPHTVWYADDIRRGEREAADVLGLTLYELMLRAGEAAFQVCR 54
+>[Vibrio             -MDTIMP-----------LPTHFYTTQQLKQGEQDAASERGLELFHLMERAGQAVFTIAF 48
+>[Coxiella           -------------------MTVLYQNRQIRELERLAVES-GISEYELMCRAGEAAFKALL 40
+>[Lactobacillus      ------------------MTEQAITAAQMRAKDQFTINQIGIPSLVLMERASLAVRDAIL 42
+>[Weissella          ------------------MTD-AVTAHEMQQYDQYTINEIGVPSLVLMERAALAGIEVLG 41
+>[Legionella         ----MDYYFTKGKPQLVNMKTPVYLVTQFQQLMDLMQNQYQVSCLELMQRSGKAACDFLV 56
+>[Dictyoglomus       --------------------MKLVTSEEIKRLEERLEREYSIPPILLMENAASFLFSFLK 40
+                                                 ::           :    ** .:.        
+
+>[Leishmania         NLYTSQK--HWLILVGSGNNGGDGYVIARHAREAGK-IVTVLRMPHSKPLPTEAASAQHA 117
+>[Escherichia        SAYPDAR--HWLVLCGHGNNGGDGYVVARLAKAVGI-EVTLLAQESDKPLPEEAALAREA 111
+>[Vibrio             AQYPTSH--HWLICCGGGNNGGDGYIVAVLARHMGI-DVTVWQLGDPEKLPADAHRAYQQ 105
+>[Coxiella           ARWPEAQ--EITVCCGKGNNGGDGLVLARLAYENGL-KVTVYLAGQRHQLKGAAAQAANA 97
+>[Lactobacillus      THYPAAN--KIVVVAGQGNNGGDGLAIARLLHVAGR-GVAILTIGNSAHASSEHQTQAHI 99
+>[Weissella          AGQFDLS--QVLVIAGLGNNGGDGVALARLLMQKGV-HVDLLFVGDENRAAHNNAIQLEI 98
+>[Legionella         YRWPKVK--KISIFCGRGDNGGQGYVLAQQAKKMGM-IPTVWQVGHQMSMSKPPQMHEEV 113
+>[Dictyoglomus       EKFEDIENRKIAILCGPGNNGGDGVALARYLYSNGIRKITIFSYLWGKKISDLLKIQLGL 100
+                              .  :  * *:***:*  :*      *     :                   
+
+>[Leishmania         WKAVGGTESTMSPGA---PLQLPADVDLIVDGLLGTGICGPPREQYADVIRHINGLPVPR 174
+>[Escherichia        WLNAGGEIHASN-------IVWPESVDLIVDALLGTGLRQAPRESISQLIDHANSHPAPI 164
+>[Vibrio             WKELGGAVYAPQ-------SEVPESTDVIIDALFGIGLKEVLRPQVVPLVELLNQSGKPI 158
+>[Coxiella           CEASNLPILPFP-------EPLLFKGEVIVDALLGSGLSGEVKAPYDHLIAAINQAGQYV 150
+>[Lactobacillus      CDYYQIPVASDP--------ALLKDADLIIDAIFGIGIDRPVEGAYATVIKQVNAAHAPV 151
+>[Weissella          AKKYGLTPVNKV--------KDFRQYTVIVDALFGIGLSKPVPIKLGEMIKRVNAANVPV 150
+>[Legionella         WYEMNSCHQQGILLHTYSPDIDLGDPELIVDALFGVGLYGHVRPEIASLLQRLQQFTVPI 173
+>[Dictyoglomus       LKNLVEIKDILQD------YTELKEYELIVDGIFGIGLKREIDDDLKKIFRYINNLGKKI 154
+                                             .  :*:*.::* *:          :.   :      
+
+>[Leishmania         VAIDIPSGLNAETGEAAGACVKADHTATFICLKPGLLTGQAKDYVG-QLHYRSLGLEDWM 233
+>[Escherichia        VAVDIPSGLLAETGATPGAVINADHTITFIALKPGLLTGKARDVTG-QLHFDSLGLDSWL 223
+>[Vibrio             VAVDVPSGLCADTGQVMGTCIKAQHTVSLIGLKQGLVTGQARCYVG-TLHYAGLGVEEVF 217
+>[Coxiella           LALDVPSGINVDSGEVQGTAVKANLTVTFIAPKRGLYTDKAPAYCG-ELIVDRLGLSESF 209
+>[Lactobacillus      VAVDVPSGINTDTGAVMGVAVKADLTVTFSYNKTGLVTDQGQAYAGRVIVADDMGTY--- 208
+>[Weissella          VAIDVPSGINATTGDIMGSSIRATATVTFAYPKTGLLQGEGVKRSG-SIFVKDIGIYSPA 209
+>[Legionella         LAIEVPTGINASTGEIAGNALAATATITFLCMKLGLLINDGKIYSG-EIAFDDLLAPEAI 232
+>[Dictyoglomus       ISIDIPSGINSDTGEIMGEALRADYVLTMFLPKVGLFETGAVDYVG-EVIVGRLGIPIEI 213
+                     :::::*:*:   :*   *  : *  . ::   * **    .    *  :    :      
+
+>[Leishmania         TAPERMRVALCRRVALD-DVYEYFGIRRSALAHKGSCGKAILVGGDHGFGGAALMSAEAC 292
+>[Escherichia        AGQETK----IQRFSAE-QLSHWLKPRR-PTSHKGDHGRLVIIGGDHGTAGAIRMTGEAA 277
+>[Vibrio             AQHNTP-----SLVSIDGKLRHSLLPPRQACTHKGQNGKALIVGGNEGMGGALILCASAC 272
+>[Coxiella           FRAVFT-----DTRLLEWKGVFPLLPKRARDAHKGSYGHVLVIGGDYGMGGAVRMAAEAA 264
+>[Lactobacillus      ------------------------------------------------------------
+>[Weissella          ELHQFN-----PEIKEN------------------------------------------- 221
+>[Legionella         YQQVKG------IEKSSLLDSSTCFSKKIWYRNKTQKGWQLSIN---------------- 270
+>[Dictyoglomus       VNDIVES----NIHLVDWELLKDIVRIPSKGVHKGKKGKVLIIGGSFRYTGAPILSALSA 269
+                                                                                 
+
+>[Leishmania         VTVGAGLTRVLTRPEYAAPLLTRCPEAMVTAVETDTGEQLKQQMLEAFEWAS-----TLA 347
+>[Escherichia        LRAGAGLVRVLTRSENIAPLLTARPELMVHELTMDS-------LTESLEWAD-----VVV 325
+>[Vibrio             ARSGAGLSAAMTHPDNVTAMLTITPEVMSTSWNKQH------LFEERIEWCD-----ALA 321
+>[Coxiella           ARVGAGLVTVATRPEHVPIVSGPRPELMCHQVAAAD------DLKPLLTAAT-----VVV 313
+>[Lactobacillus      ------------------------------------------------------------
+>[Weissella          ------------------------------------------------------------
+>[Legionella         ------------------------------------------------------------
+>[Dictyoglomus       LRTGAGMVYLAVPEKISMVYRGNYPEIIYIPLKDKDGYISYDNLGYILEIIETYGIEAVA 329
+                                                                                 
+
+>[Leishmania         VGPGLGTGAYGQAALTAALRHAELHQDKTLVLDADALNLLAGCLHGREGGAAAGARKHLP 407
+>[Escherichia        IGPGLGQQEWGKKALQKVEN-----FRKPMLWDADALNLLAINPDKR------------- 367
+>[Vibrio             LGPGLGRDAQAQQIMQRLSS-----LKVPKVWDADALYFLAHNPSYD------------- 363
+>[Coxiella           IGPGLGKSDWAKSLLNKVLET-----DLPKVLDADSLNLLAESPSQR------------- 355
+>[Lactobacillus      ------------------------------------------------------------
+>[Weissella          ------------------------------------------------------------
+>[Legionella         ------------------------------------------------------------
+>[Dictyoglomus       IGPGIGINEDVRRLVQDFLR----KVDKKVVVDADALSFVKDILGDISG----------- 374
+                                                                                 
+
+>[Leishmania         VLPNSIITPHPGEAARLLDCRVADVEKDRLAAARRLAAILGGTCLLKGPGTIVHCHSSAK 467
+>[Escherichia        --HNRVITPHPGEAARLLGCSVAEIESDRLHCAKRLVQRYGGVAVLKGAGTVVAAHPDAL 425
+>[Vibrio             --AQRIITPHPVEAARLLGCEVEEVEQDRFAAIRQLQQRYGGVVVLKGAGTLVD--DGKE 419
+>[Coxiella           --EDWILTPHPGEASRLLGISCNEVQRDRFQAINDLQEKYQGVLVLKGVGTLIK-DESQA 412
+>[Lactobacillus      ------------------------------------------------------------
+>[Weissella          ------------------------------------------------------------
+>[Legionella         ------------------------------------------------------------
+>[Dictyoglomus       --KDVVFTPHYGEMSRIVEESVETISKKRVEIGRNFVERYKLNLIIKGP-NSLFFDPKNH 431
+                                                                                 
+
+>[Leishmania         TAIVDAGNAGMASGGMGDVLTGLLAGLAAQRMHDTFDTTCAGALVHGVAADMVAAEDGRG 527
+>[Escherichia        G-IIDAGNAGMASGGMGDVLSGIIGALLGQKLS-PYDAACAGCVAHGAAADVLAAR--FG 481
+>[Vibrio             IAVCLQGNPGMASGGMGDVLTGIIVALLAQKIP-LADAAKLGVWLHSSAADLNTKS--HG 476
+>[Coxiella           YYVCPAGNPGMATGGMGDILSGIIGGLVAQRLS-LASAAQAGVFIHSMAADRAAEE--GG 469
+>[Lactobacillus      ------------------------------------------------------------
+>[Weissella          ------------------------------------------------------------
+>[Legionella         ------------------------------------------------------------
+>[Dictyoglomus       VYVNPFADFLLATAGSGDVLTGIIAGFSAQGYS-LKEACILGNFVHGYSS--VIWKKYKG 488
+                                                                                 
+
+>[Leishmania         TRGIRATELIHRVPLIVNASGPSPASRQRPSGQ- 560
+>[Escherichia        TRGMLATDLFSTLQRIVNPEVTDKNHDESSNSAP 515
+>[Vibrio             QRGLLASDLLPHLRELLN---------------- 494
+>[Coxiella           ERGLLATDLFPHLRVLVNP--------------- 488
+>[Lactobacillus      ----------------------------------
+>[Weissella          ----------------------------------
+>[Legionella         ----------------------------------
+>[Dictyoglomus       SVGLTASDIIKILPLAIDEVIRRRNV-------- 514
+                                                       
