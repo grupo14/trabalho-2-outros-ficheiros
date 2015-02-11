@@ -1,0 +1,26 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Legionella           -----MSLGELLLVFIVAIIVFGPSKLPMLATHLGMLVRKLNQLKEHTSSFWQQQLNEIQ 55
+>[Bdellovibrio         --MGEFSLTHILLLAVIFLIFFGPSRLPQLGQSMGKAIRGFKQ------GLNEIDVDAKD 52
+>[Neisseria            --MFDFGLGELIFVGIIALIVLGPERLPEAARTAGRLIGRLQRFVGSVKQELDTQIELEE 58
+>[Prochlorococcus      MNIFGVGLPEVTVILILALLIFGPKKLPELGKQLGKTLKSLKKASNEFQNEIDQVMKEED 60
+                            ..* .: .: :: ::.:**.:**  .   *  :  :::         :  :.  :
+
+>[Legionella           LYENQR----KAEKADQQYQQTDSENQN--SDHKKNTRPS-------------------- 89
+>[Bdellovibrio         IHDNQQ----VSHQNKQSMGQTQKQGEN--QNS--------------------------- 79
+>[Neisseria            LRKVKQAFEAAAAQVRDSLKETDTDMQNSLHDISDGLKPWEKLPEQRTPADFGVDENGNP 118
+>[Prochlorococcus      KDESPK---SIESNQSNEINQEKIDSEN--SNN--------------------------- 88
+                         .  :       :  :.  : . : :*   :                            
+
+>[Legionella           ------------------------------------------------------------
+>[Bdellovibrio         ------------------------------------------------------------
+>[Neisseria            LPDTANTVSDGISDVMPSERSDTSAETLGDDRQTGSTAEPAETDKDRAWREYLTASAAAP 178
+>[Prochlorococcus      ------------------------------------------------------------
+                                                                                   
+
+>[Legionella           --------------------------------------------------
+>[Bdellovibrio         --------------------------------------------------
+>[Neisseria            VVQAVEVSYIDTAVETPVPHTTSLRKQAINRKRDFRPKHRAKPKLRVRKS 228
+>[Prochlorococcus      --------------------------------------------------
+                                                                         
