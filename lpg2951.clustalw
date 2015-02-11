@@ -1,0 +1,62 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[legionella         ------------------------------------------------------------
+>[Dictyostelium      ---------------------------------------MSAPEGPSKCTWTPN--TTEN 19
+>[Mus                MPSGTSQCEDGSAGGFQHLDMHSEKRQLEKGPSGDKDRVWIRPDTPSRCTWQLGRAMADS 60
+>[Rattus             MPSGTSQCEDGSAGCPQDLEVQPEKGQLEKGASGDKERVWISPDTPSRCTWQLGRPMADS 60
+                                                                                 
+
+>[legionella         -----------MIYPNILATIGHTPVVKINRLGK--DLECELYAKCEFFNPGGSVKDRIG 47
+>[Dictyostelium      TPHTTRRTPKKLIMDNILDNIGGTPLVRVNKVSS--DLECELVAKCEFFNAGGSVKDRIG 77
+>[Mus                PHYHTVLTKSPKILPDILRKIGNTPMVRINKISKNAGLKCELLAKCEFFNAGGSVKDRIS 120
+>[Rattus             PHYHTVPTKSPKILPDILRKIGNTPMVRINRISKNAGLKCELLAKCEFFNAGGSVKDRIS 120
+                                 *  :** .** **:*::*::..  .*:*** *******.********.
+
+>[legionella         YEMVVKAEKEGRIKPGDTLIEPTSGNTGIGIALAGAVLGYKVIITMPEKMSQEKQSVLER 107
+>[Dictyostelium      HRMIVDAEESGRIKKGDTLIEPTSGNTGIGLALTAAIKGYKMIITLPEKMSQEKVDVLKA 137
+>[Mus                LRMIEDAERAGNLKPGDTIIEPTSGNTGIGLALAAAVKGYRCIIVMPEKMSMEKVDVLRA 180
+>[Rattus             LRMIEDAERAGTLKPGDTIIEPTSGNTGIGLALAAAVKGYRCIIVMPEKMSMEKVDVLRA 180
+                      .*: .**. * :* ***:***********:**:.*: **: **.:***** ** .**. 
+
+>[legionella         LGAIIYRTPTEAAYNDPDSHISLAKKLQAEIPNSHILDQYANPNNPNAHYFGTAQEIIDD 167
+>[Dictyostelium      LGAEIIRTPTEAAFDAPESHIGVAKKLNSEIPNSHILDQYGNPSNPLAHYDGTAEELLEQ 197
+>[Mus                LGAEIVRTPTNARFDSPESHVGVAWRLKNEIPNSHILDQYRNASNPLAHYDDTAEEILQQ 240
+>[Rattus             LGAEIVRTPTNARFDSPESHVGVAWRLKNEIPNSHILDQYRNASNPLAHYDDTAEEILQQ 240
+                     *** * ****:* :: *:**:.:* :*: *********** *..** *** .**:*::::
+
+>[legionella         FGKDLHMVVAGVGTGGTITGIAKRLKEFNPAIKIIGADPEGSILGG-----GTEIKSYHV 222
+>[Dictyostelium      CEGKIDMIVCTAGTGGTITGIARKIKERLPNCIVVGVDPHGSILAQPESL-NNTNKSYKI 256
+>[Mus                CDGKLDMLVASAGTGGTITGIARKLKEKCPGCKIIGVDPEGSILAEPEELNQTEQTAYEV 300
+>[Rattus             CDGKVDMLVASAGTGGTITGIARKLKEKCPGCKIIGVDPEGSILAEPEELNQTEQTAYEV 300
+                        .:.*:*. .**********:::**  *   ::*.**.****.       .  .:*.:
+
+>[legionella         EGIGYDFFPDVLDNTLIDAYIKTNDADSFRTARRLIKEEGLLIGGSCGAAMWAALQAAKS 282
+>[Dictyostelium      EGIGYDFIPNVLERKLVDQWIKTDDKESFIMARRLIKEEGLLCGGSSGSAMVGALLAAKQ 316
+>[Mus                EGIGYDFIPTVLDRAVVDKWFKSNDEDSFAFARMLIAQEGLLCGGSSGSAMAVAVKAARE 360
+>[Rattus             EGIGYDFIPTVLDRAVVDRWFKSNDDDSFAFARMLISQEGLLCGGSSGSAMAVAVKAAQE 360
+                     *******:* **:. ::* ::*::* :**  ** ** :**** ***.*:**  *: **:.
+
+>[legionella         LSKGQKCLVILPDSIRNYMSKFANDEWMKEMGFL-------------------------- 316
+>[Dictyostelium      LKKGQRCVVLLADSIRNYMTKHLNDDWLVDNGFVDPEYKTKDQQEEEKYHGATVKDLTLP 376
+>[Mus                LQEGQRCVVILPDSVRNYMSKFLSDKWMLQKGFMKEELSVKRP----WWWRLRVQELSLS 416
+>[Rattus             LKEGQRCVVILPDSVRNYMSKFLSDKWMLQKGFMKEELSVKRP----WWWHLRVQELSLS 416
+                     *.:**:*:*:*.**:****:*. .*.*: : **:                          
+
+>[legionella         ------------------------------------------------------------
+>[Dictyostelium      KPITISATTTCAAAVQLLQQYGFDQLPVVSESKKVLGQLTLGNLLSHIASKKAVPTDAVS 436
+>[Mus                APLTVLPTVTCEDTIAILREKGFDQAPVVNESGAILGMVTLGNMLSSLLAGKVRPSDEVC 476
+>[Rattus             APLTVLPTVTCEHTIAILREKGFDQAPVVNESGAILGMVTLGNMLSSLLAGKVRPSDEVC 476
+                                                                                 
+
+>[legionella         ------------------------------------------------------------
+>[Dictyostelium      KVMFRFTKNEKYIPITQSTSLATLSKFFENHSSAIVT----------------------- 473
+>[Mus                KVLY-----KQFKPIHLTDTLGTLSHILEMDHFALVVHEQIQYCS--------------N 517
+>[Rattus             KVLY-----KQFKPIHLTDTLGMLSHILEMDHFALVVHEQIQSRDQAWSGVVGGPTDRNN 531
+                                                                                 
+
+>[legionella         ------------------------------
+>[Dictyostelium      ----ENDEIISIVTKIDLLTYLMKSQQKN- 498
+>[Mus                GMSSKQQMVFGVVTAIDLLNFVAAREQTQT 547
+>[Rattus             GVSSKQLMVFGVVTAIDLLNFVAAREQTRK 561
+                                                   
