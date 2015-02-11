@@ -1,0 +1,38 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Bordetella         ------------------------------------------------------------
+>[Mycobacterium      -------MASKAGLGQTPATTDARRTQKFYRGSPGRPWLIGAVVIPLLIAAIGYGAFERP 53
+>[Vibrio             -----------MNKWVTATIVMTSILTSFAPMAMDKRYVATPQQSTWQMVTNTPLECRLV 49
+>[legionella         MDEQKMISEHFICKKAKIIAMSSLFITTVVFAAPSIQYASPMGEENWRMTGN-PLRCGLS 59
+                                                                                 
+
+>[Bordetella         ---------------MNKPSKFALALAFAAVTASG---------------VASAQTVDNW 30
+>[Mycobacterium      QSVTGPTGVLPTLTPTSTRGASALSLSLLSISRSGNTVTLIGDFPDEAAKAALMTALNGL 113
+>[Vibrio             HPIPNYG---DAEFSSRANKKINLDFELKMRRPMG------------ETRNVSLVSLPPS 94
+>[legionella         LTIPNYGIGYFEQYATQSPHFILRKWDQVQRVLPA-----------------QIVASPPV 102
+                                                       .                    :    
+
+>[Bordetella         RNPYGNVWKNGTNELCWR---------DAFWTPATGIPGC-------------------- 61
+>[Mycobacterium      LAPGVNVIDQIHVDPVVRSLD--FSSAEPVFTASVPIPDFGLKVERDTVTLTGTAPSSEH 171
+>[Vibrio             WRPGESADRITNLQFFKQFDG--YIGGQTAWSLLSELEKG-------------------R 133
+>[legionella         WKPLLTRSYLVTRTYIKPGEYGLFLNRQPALKLLTFLSQG-------------------- 142
+                       *  .                     :.  .    :                       
+
+>[Bordetella         -DGVP------------------VAQQPKEKPAP-------MAAKVVFNADTFFDFDKST 95
+>[Mycobacterium      KDAVKRAATSTWPDMKIVNNIEVTGQAPPGPPASGPCADLQSAINAVTGGPIAFGNDGAS 231
+>[Vibrio             YPTFSYQDWQSRDQRIEVALSSVLFQEKYNVFSDCVSNLLTYSFEDISFTILHYDRDNVQ 193
+>[legionella         -YQASFNYLSEEGFRTTVTLSPIRFQKVYSQYQRCLSGLLPFNYEDVKESVFHFGVDSKL 201
+                                              *                  : :      :. *   
+
+>[Bordetella         LKPEGRQLLDQVAQQARAIDLETIIAVG-NTDSIGTEAYNMKLSERRAASVKAYLVSKGI 154
+>[Mycobacterium      LIPADYEILNRVADKLKACPDARVTING-YTDNTGSEGINIPLSAQRAKIVADYLVARGV 290
+>[Vibrio             LNKASQKRLAQIADYIRYNQDIDLVLVSTYTDSVDSRGVSQDLSERRAEVLRDYFKSLGL 253
+>[legionella         LSDADKVQLRRIAQYVDADVQIDAIKIIGHADDSGRKGYNNAISQYRAESVKNYLIRLGV 261
+                     *   .   * ::*:                :*. . .. .  :*  **  :  *:   *:
+
+>[Bordetella         DPNRIYTEGKGKLNPIASNKTAEGRARNRRVEIEIVGSRK 194
+>[Mycobacterium      AGDHIATVGLGSVNPIASNATPEGRAKNRRVEIVVN---- 326
+>[Vibrio             PEDRIQVQGYGKRRPIADNASPIGKDKNRRVVISLGRTII 293
+>[legionella         PQRKLSITWVGALQPIARNDTDEGRAANRRVVVTLIKK-- 299
+                        ::     *  .*** * :  *:  **** : :     
