@@ -1,0 +1,56 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Streptomyces        MVSGTVGRGTALGAVLLALLAVPAQAGTAAAADLPAPD-DTGLQAVLHTALSQGAP-GAM 58
+>[Bacillus            ---------------------------------MKQNK-RKHLQTLFETLGEKHQFNGTV 26
+>[Legionella          MHIKNIFTWNLMGAVILSMPLFAG------EQVKLKSI-DSLIDKYIEKYKNEELVTGVG 53
+>[Staphylococcus      MTTKKLYFLSISIIILVAISIAIHITLNSNTKTRLTNDSQQQIDTIIEHDLQKGHIPGAS 60
+                                                                ::  :.   .:    *. 
+
+>[Streptomyces        VRVD-DNGTIHQLSEGVADRATGRAITTTDRFRVGSVTKSFSAVVLLQLVDEGKLDLDAS 117
+>[Bacillus            LAAE-GGDILYHHSFGYAEMTEKRPLKTNSLFELASLSKPFTALGIILLEEKGILGYEDK 85
+>[Legionella          ATFL-SGTEIISTAHGFENNKRKKRLTNNAYFQIGSITKSFTAALILKLEAEGKLNINQT 112
+>[Staphylococcus      ILIVKNGKVFLNKGYGYQDVDKKVKASPTTKYEIASNTKAFTGLAILKLAQEGRLNLNDA 120
+                           ..  :   . *  :       . .  :.:.* :*.*:.  :: *  :* *. :  
+
+>[Streptomyces        VNTYLPGL-----LPDDRITVRQVMSHRSGLYDYTNDMFAQTVPGFESVRNKVFSYQDLI 172
+>[Bacillus            VDRWLPG------FPYQGVTIRHLLNHTSGLPDYMGWFFANWDS------HKIAVNQDIV 133
+>[Legionella          IGDWLPEY-----DDWKGITIKQLLNMTSTIPGYA--TIPTLADSITDNPKKQWTSKELV 165
+>[Staphylococcus      VSKHVPHFKMNYNGQNETITIKQLLAQTSGIPSDITSEDAVTNKNNRLNDVTRAIMGDEL 180
+                      :.  :*          . :*:::::   * : .      .           .     : :
+
+>[Streptomyces        TLSLKHGVTN--APGAAYSYSNTNFVVAGMLIEKLTGHSVATEYQNRIFTPLNLTDT--F 228
+>[Bacillus            DMLMNEGLSGYFEPNEGWMYSNTGYVLLAVIIEKASGMSYADFIKTSIFLPAGMNETRVY 193
+>[Legionella          DLAY-----GYKHPTSGYNYSDTNYLILGMIIEKVTHDSFHNQLQKKILKPLQLKETYYI 220
+>[Staphylococcus      HH----------KPGEEFEYSNMNYDLLGLIIQNVTKQSYTQYITDHWLKPLQMKHTTFK 230
+                                   *   : **: .: : .::*:: :  *         : *  :..*   
+
+>[Streptomyces        YVHPDTVIPGTHANGYLTPDEAGG-ALVDSTEQT-----VSWAQSAGAVISSTQDLDTFF 282
+>[Bacillus            NRRLSPERIDHYAYGYVYDVHSETYVLPDELEETNYVVYLDGIQGDGTVNSVTSDLFRFD 253
+>[Legionella          TDSYTPYFLKKMPESYYYGRTVENLKHGQKSTNDN----LSMAGPAGAIVATTSDVAKWI 276
+>[Staphylococcus      QTNYKS---KHDAIGYELQGSTPVVSKPEFNLWDT---------PSAYMMTSTEDLEHWI 278
+                           .      . .*            :                 . : : *.*:  : 
+
+>[Streptomyces        SALMS--GQLMSAAQLAQMQQWTTVN--STQGYGLGLRRRDLSCGISVYGHTGTVQGYYT 338
+>[Bacillus            QALYQ--DDFISKASKESAFSPVRLNNGETIDYGFGWVLQNSPEKGRIVSHSGGWPGYST 311
+>[Legionella          KALFS--SDFLLPKQQMELKSLISMKTGTPISH-VDSEEPNGFGLGVVQGYKPQLGKYWY 333
+>[Staphylococcus      KFQLNPPDKYKSLVQQSHKNLSSTIGEPNANPYASGWFTNNDEHLVFHSGTLDNFSSFIL 338
+                      .   .  ..     .         :    .  :  .    :        .       :  
+
+>[Streptomyces        YAFASKDGKRSVTALANTSNNVNVLNTMARTLESAFCGKPTTAKLRSAT----------- 387
+>[Bacillus            MMIRYIDHRKTLIYLSNKEEDTEYEQAILKAAEHILFGQPYDVPERPADKKKKAIDTAIY 371
+>[Legionella          YEGDTVGFRVLYIYHPCNEKIVVIALNSSPFVDEAAGDHSGDLLLELYK----------- 382
+>[Staphylococcus      LNPKQNYGIVVLANLNSEYVPKLVEHLNTQIVNHKRYSTVASILNQYKDQFN---IVTVL 395
+                                                      :    .       .              
+
+>[Streptomyces        ------------SSATTVERHEDIAPGIARD----------------------------- 406
+>[Bacillus            SRYVGSYLLQDGTAAQVTTENERLYLEIAGQLRLELFPSSETRFFLRALSVEVEFTLGED 431
+>[Legionella          ------------NAFGISQKCE-------------------------------------- 392
+>[Staphylococcus      MTTLILLAFIFSAYRAWQMRHGQILLRRSKRIAVLSWLTLCLCIAIALILYALPYLILGS 455
+                                         .                                        
+
+>[Streptomyces        -------------------------------------------
+>[Bacillus            AAKSFILYEDGSEEEAVRTK----------------------- 451
+>[Legionella          -------------------------------------------
+>[Staphylococcus      NNWSFVLTWLPIEIKLALITTLIALFSTLIVILLFLHTKITKT 498
+                                                                 
