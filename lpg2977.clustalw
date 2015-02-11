@@ -1,0 +1,68 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Vibrio            MKMIQRPLNWLVLAGAATGFPLYAAQ-MVTIDDASMVEQALAQQQYSMMPAASG-----F 54
+>[Helicobacter      ------------------------------------------------------------
+>[Pseudomonas       MKKVS-TLDLLFVAIMGVSPAAFAAD-LIDVSKLPSKAAQGAPGPVTLQAAVGAGGADEL 58
+>[legionella        ------------MNITGIEQDINSTEGKLSPNDIEQKTLGKVTEPVKFKNLKKVIYIDKG 48
+                                                                                
+
+>[Vibrio            KAVNTVQLPNGKVKVRYQQMYNGVPVYGTVVVAT--ESSKGISQVYGQMAQQLEADLP-T 111
+>[Helicobacter      ------------------------------------------------------------
+>[Pseudomonas       KAIRSTTLPNGKQVTRYEQFHNGVRVVGEAITEVKGPGKSVAAQRSGHFVANIAADLPGS 118
+>[legionella        NKAHLAYHLSYYSNSEKKHVNAPNYLIDANSGEILKQWNEVRHERIGQGLGGNAFTLPYR 108
+                                                                                
+
+>[Vibrio            VTPDIESQQAIALAVSHFGEQHAGESLPVENESVQLMVRLDDNQQAQLVYLVDFFVASET 171
+>[Helicobacter      ------------------------------------------------------------
+>[Pseudomonas       TTAAVSAEQVLAQAKSLKAQGRK-----TENDKVELVIRLGENNIAQLVYNVSYLIPGEG 173
+>[legionella        QGMFQHGNALPGLPSLGKFDVNVEDGLCRVENESIKVMNLENHNIGYDFFPITIFAESVL 168
+                                                                                
+
+>[Vibrio            PSRPFYFISAETGEVLDQWDGINHAQATGTGPGGNQKTGRYEYGSNGLPGFTIDKTGTTC 231
+>[Helicobacter      ------------------------------------------------------------
+>[Pseudomonas       LSRPHFVIDAKTGEVLDQWEGLAHAEAG--GPGGNQKIGKYTYGSDYGPLIVNDR----C 227
+>[legionella        NLSAFSYPCNETNLFLNYADGR-------------------------------------- 190
+                                                                                
+
+>[Vibrio            TMNNSAVKTVNLNGGTSGSTAFSYACNNSTNYNSVKTVNGAYSPLNDAHFFGKVVFDMYQ 291
+>[Helicobacter      ------------------------------------------------------------
+>[Pseudomonas       EMDDGNVITVDMNSSTDDSKTTPFRFACPTN--TYKQVNGAYSPLNDAHFFGGVVFKLYR 285
+>[legionella        ----------------------------------TGPVNYAFSPVNDTMYFAQQTLDMYQ 216
+                                                                                
+
+>[Vibrio            QWLNTS-PLTFQLTMRVHYGN------------NYENAFWDGRAMTFGDGYTRFYPLVDI 338
+>[Helicobacter      ------------------------------------------------------------
+>[Pseudomonas       DWFGTS-PLTHKLYMKVHYGR------------SVENAYWDGTAMLFGDGATMFYPLVSL 332
+>[legionella        KVYGVNRPIGDDLPIRAYTHLGDMDNAFAVPTISLDGVVLAHQQIVIGNGD-EFLTAPAQ 275
+                                                                                
+
+>[Vibrio            NVSAHEVSHGFTEQNSGLVYRDMSGGINEAFSDIAGEAAEYFMRGNV-------DWIVGA 391
+>[Helicobacter      --------------NSGLVYRDMSGGINEAFSDIAGEAAEYFMRGNV-------DWIVGA 39
+>[Pseudomonas       DVAAHEVSHGFTEQNSGLIYRGQSGGMNEAFSDMAGEAAEFYMRGKN-------DFLIGY 385
+>[legionella        SVLGHELSHNFTALHSGLMYEGQSGGINESFSDMAAIALLDYLSKDYPWYWDGEDWTIGR 335
+                                  :***:*.. ***:**:***:*. *   ::  .        *: :* 
+
+>[Vibrio            DIFKSSGGLRYFDQPSRDGRSIDHASQYYSGIDVHHSSGVFNRAFYLLANKSGWNVRKGF 451
+>[Helicobacter      DIFKSSGGLRYFDQPSRDGRSIDHASQYYSGIDVH-SSGVFNRAFYLLANKSGWNVRKGF 98
+>[Pseudomonas       DIKKGSGALRYMDQPSRDGRSIDNASQYYNGIDVHHSSGVYNRAFYLLANSPGWDTRKAF 445
+>[legionella        EAVKSGQPIRYLDDPAKDGMSIGHASEYTDALDVHITSGVFNKAFYLLAHKPGWSIQKAF 395
+                    :  *..  :**:*:*::** **.:**:* ..:*** :***:*:******:..**. :*.*
+
+>[Vibrio            EVFAVANQLYWTPNSTFDQGGCGVVKAAQDLNYNTADVVAAFNTVGVNASCGTTPPPVGK 511
+>[Helicobacter      EVFAVANQLYWTPNSTFDQGGCGVVKAAQDLNYNTADVVAAFNTVGVNASCGTTPPPVGK 158
+>[Pseudomonas       EVFVDANRYYWTATSNYNSGACGVIRSAQNRNYSAADVTRAFSTVGVTCPSAL------- 498
+>[legionella        QVMVDANMNYWSPIAYYDFAACGVIQATIDKHWDKTPVIEAFAEVGVVCPMHKS------ 449
+                    :*:. **  **:. : :: ..***:::: : ::. : *  **  *** ..          
+
+>[Vibrio            VLEKGKPITGLSGSRGGEDFYTFTVTNSGSVVVSISGGTGDADLYVKAGSKPTTSSWDCR 571
+>[Helicobacter      VLEKGKPITGLSGSRGGEDFYTFTVTNSGSVVVSISGGTGDADLYVKAGSKPTTSSWDCR 218
+>[Pseudomonas       ------------------------------------------------------------
+>[legionella        ------------------------------------------------------------
+                                                                                
+
+>[Vibrio            PYRSGNAEQCSISAVVGTTYHVMLRGYSNYSGVTLRLD 609
+>[Helicobacter      PYRSGNAEQCSISAVVGTTYHVMLRGYSNYSGVTLRLD 256
+>[Pseudomonas       --------------------------------------
+>[legionella        --------------------------------------
+                                                          
