@@ -1,0 +1,56 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Bacillus                 MKTKRWFVD---------------------VTDELSTNDPQIAQAAALLR 29
+>[Pyrococcus               ---MTIIIN---------------------VRERI--EEWKIRIAAGFIR 24
+>[Schizosaccharomyces      METKIQTVDTRLISFEKPSNDSEHPFEHTRVSIPPSETRSALENAANILR 50
+>[legionella               ----------------------------------MSIITTNLNRAIHDLQ 16
+                                                                    :  *   ::
+
+>[Bacillus                 -ENEVVAFPTETVYGLGANAKNTDAVKKIYEAKGRPSDNPLIVHIADISQ 78
+>[Pyrococcus               -EGKLVAFPTETVYGLGANALDENAVKRIFEAKGRPADNPLIIHIASFEQ 73
+>[Schizosaccharomyces      NTDYPVAFPTETVYGLGADARRTEAVLSIYKAKNRPADNPLIVHVASLDQ 100
+>[legionella               -QGKPVAIPTETVYGLAAPINNNAAIRAVFEMKGRPLNHPLIVHIASNWD 65
+                             .  **:********.*      *:  ::: *.** ::***:*:*.  :
+
+>[Bacillus                 LEDLTGPAPEKAK-------------------TLMKRFWPGALTLILPCK 109
+>[Pyrococcus               LEVLAKEIPEEAE-------------------MLAKRFWPGPLTLVLP-K 103
+>[Schizosaccharomyces      LRRLLLSAYPKAKSEVKNQAHDSEEIIPKVYLPLIKKFWPGPLSILLPVV 150
+>[legionella               LHKLVEEVPEYAH-------------------QLASKFWPGPLTLVFYCK 96
+                           *. *       *.                    * .:****.*::::   
+
+>[Bacillus                 PDALS---PRVTAGLETVAIRMPDHPLALALIRESGLPIAAPSANLSGKP 156
+>[Pyrococcus               SEVVP---RVITGGLDTVAVRMPAHEIALKLIELSERPIAAPSANISGKP 150
+>[Schizosaccharomyces      DEANPPVSPIVTAGQKTFAVRMPQHPVALALISISDSPLAAPSANASTRP 200
+>[legionella               KDQIN---PLITGGQSTIAIRCPDHPLTQKLLQKLNIPVVAPSANPFGKI 143
+                            :        :*.* .*.*:* * * ::  *:     *:.*****   : 
+
+>[Bacillus                 SPTKAEHVAHDLDGRIAGIVDGGPTGIGVESTVLSCADDIP-VLLRPGGI 205
+>[Pyrococcus               SPTSAHHVAEDFYGKIECIIDGGETRIGVESTVIDLTEWPP-VLLRPGGL 199
+>[Schizosaccharomyces      SPTLAKHVYNDLQGKIPLILDGGACGVGVESTVVNGLCDPP-VILRPGGI 249
+>[legionella               SPTTALHVKQSFNDAELTILDGGRCRVGIESTIVDATNPVSYQILRHGII 193
+                           *** * ** ..: .    *:***   :*:***::.     .  :** * :
+
+>[Bacillus                 TKEQIEAVIG-----PIHVDKGLSDQ-NEKPISPGMKYTHYAPTAPLAIC 249
+>[Pyrococcus               PLEEIEKVIG-----EIRIHPAVYGKSVDTAKAPGMKYRHYAPSAEVIVV 244
+>[Schizosaccharomyces      SLEEIQSSGGAWERTKVFVAKKSDMETDFIPQTPGMKYRHYSPTAKVLLF 299
+>[legionella               DEKTIAETIAIG-----------CSTQKNNIRVPGKLDSHYQPQKTLYYF 232
+                             : *    .                       **    ** *   :   
+
+>[Bacillus                 EGSPE----RIQHLIQEYQ---QGGRRVGVLTTE--EKAGVYSADYVKSC 290
+>[Pyrococcus               EGPRDKVRRKIEELIAKFK---EEGKKVGVIG------SGSYDADEVFYL 285
+>[Schizosaccharomyces      VNYTESDAYGVFEKYLSEQGITKEKQKIGVLCSKRWNEESFPSHCPFVFL 349
+>[legionella               DQYET-----LSEFCQKRK------GTVYVIANR-----QPPGVETNLFH 266
+                                     : .   . :        : *:           .       
+
+>[Bacillus                 GRRAQLETVAAGLYDALRSFDENKVDFIIAESFPDTGVGLAIMNRLMKAA 340
+>[Pyrococcus               G--DTVEEIARNLFKALRHMDRTGVDVILAEGVEEKGLGLAVMNRLRKAS 333
+>[Schizosaccharomyces      HMGRDGHEITKNLFAQLRDLDLQGVDFVLVEGVSEENEGLAIMNRLGKAA 399
+>[legionella               PLGMHPEKSAYDLYYQLRLADTSDAICIAIELPPNTSEWQGVRERILKAG 316
+                                 .  : .*:  **  *   .  :  *   : .   .: :*: **.
+
+>[Bacillus                 GGRVIR--- 346
+>[Pyrococcus               GYRIIKV-- 340
+>[Schizosaccharomyces      SVVFEGPSH 408
+>[legionella               FPYSQQ--- 322
+                                    
