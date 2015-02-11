@@ -1,0 +1,56 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Photorhabdus      MNQNNKHRTLLFRAALAAIAIAAAIFFWYQLKTPQQSSP-SDQSSG----LRHSPLPPVQ 55
+>[Xenorhabdus       --MKNKRRTYFFQFAVLAVVIATAYFAWNYFKASTISEEKSAQASKSLQDLKYLLQPPVQ 58
+>[Legionella        -----------MNNYLKIFSIVSLILMLVSCGSSDKPQT-----------------SSLK 32
+>[Cupriavidus       -MAISNKQKAAIAAIVLVGGVATGGVLLSGRSAPEEQGGHSESKGHGDTEHHGKQAAEAD 59
+                               :   :    :.:  .      :.                      .  .
+
+>[Photorhabdus      VATAKEQ------------------AVPRFLAGLGTIQAANTATVTSRVEGQLIALH--- 94
+>[Xenorhabdus       VATAKIQ------------------SVPHYLGGLGTVQAANTVTVTSLVAGQLTALH--- 97
+>[Legionella        TYEVKPQ------------------PLHKTLHFTGTVQPIRESSLTSPMEAVVETMH--- 71
+>[Cupriavidus       HKDDKSHGDGEHHEVKKGPNGGALFSRDGYDVEIGTAESKGEARIRLWVSKSGKAVANGV 119
+                        * :                  .        ** :.     :   :     ::    
+
+>[Photorhabdus      FQEGQQIKQG------DLLAEIDPRPFQVQLAQAKGQLAKDEAILANARQDLNRYQKLAN 148
+>[Xenorhabdus       FDEGQFVKQG------DLLAEIDPRSFQIQLAKVQGQYAKDQATLANSRQDLVRYQQLAK 151
+>[Legionella        FHYGQMVKKG------EIVLTLNSNELQKQYNDTLTDYLKAKDSYSIAKAKFVGTEELWN 125
+>[Cupriavidus       AATGQLVRATGESQALKFVVSGDALESQQPVAEPHVFDVTANVTLPGSSSPLAVRLSKEE 179
+                       ** ::        .::   :.   *    .      . :   . :   :    .  :
+
+>[Photorhabdus      THLISQQEMDNQRALVRQHEASLKVDQAAIDSAKLQLTYSRITAPISGKVGLKQIDVGNF 208
+>[Xenorhabdus       NKSISQQDLDKQISTVRQYEALLKADQSSIDDARLQLTYSRITAPISGRVGLKKIDVGNY 211
+>[Legionella        AGLISKNNYLSEKSGLDTARVTLMQATRKLS-EMLEKMDDKNTQNIS-NLSLADFDKVRK 183
+>[Cupriavidus       GKIELTADQLAKTGVVVQTAGSAKVQAGVQFPGEIRFNEDKTAHVVPRLAGVVESVPANI 239
+                           :   : . :                  :.   .: :  :.   .: .    . 
+
+>[Photorhabdus      -ISSGNSSSIVVITQTDPVDVLFSLPENDINAVLQAQKTNHDVVVSAWDRNNQQQLAAGK 267
+>[Xenorhabdus       -ISAGGGTPLVIITQVDPIDVLFALPENDISAVLKAQKNNKDVVVTAWDRNNQQQLAQGK 270
+>[Legionella        -ILTSNHN---LIHLKAPSDGIMLYPPK------SGEDKNNRVTVGSTIKSGQVIALIGD 233
+>[Cupriavidus       GQQVKKGQVLAVIASTGLSDQRSELLAAQKRLDLARVTYDREKKLWEQKISAEQDYLSAR 299
+                               :*      *                   :.   :     . :     . 
+
+>[Photorhabdus      LLSIDNQIDATTGTIKLKARFSNQESILFP-----NQFVNVRIKVDTLENAVVIPNAALQ 322
+>[Xenorhabdus       LLSIDNLIDVTTGTIKMKARFDNQNNVLFP-----NQFVNIQIKVNTLENAIVIPNAALQ 325
+>[Legionella        LKGISVEIDVP--EIDIDKIRPGMEATISG-----VAFGRHQLKGKLVAVNAQASNTSTG 286
+>[Cupriavidus       NALQEAQISVQNAQQKLTAIGASNSSTALNRYELRAPFDGMIVEKHISLGEAVADNANVF 359
+                        .  *..     .:     . .            *    :: .         *:   
+
+>[Photorhabdus      MGNEGNFVWMLGKENKVSKHLVTVKLQDTKRVVIS----------AGLAAGDKVVTDGID 372
+>[Xenorhabdus       MSSEGHYVWKVDKENKVNKRKVTIGLQNAQLVVIS----------KGLATGDRVVTDGTD 375
+>[Legionella        GLPSFTAVVEVNSLTPEQQSWIKVGMSASIELNVE----------SNNQLLIPIAAVKRE 336
+>[Cupriavidus       TLSDLSSVWAEFVVSAKDVERVRIGEKASINSASSDVKADGTVSYVGSLLGEQTRTAKAR 419
+                       .   *      .  .   : :  . :     .           .        :    
+
+>[Photorhabdus      RLTD-----------------GAKVDIVTPMVNKPQPQKHDQTENS-------------- 401
+>[Xenorhabdus       ALTE-----------------GTGITIVKPLKSES-ANTYDQMDKSKPSNSKVENT---- 413
+>[Legionella        KGSS-----------------VVQVQLAKGKVQKRMITTGAAQADSVVVESGLKSGDVVV 379
+>[Cupriavidus       VTLTNPQMAWRPGLFVTVDVFGADVEVPVAVKTEAVQDVNGESVVFVAVQGGFVPQPVKV 479
+                                          . : :      :                          
+
+>[Photorhabdus      -----------------------------------------
+>[Xenorhabdus       -----------------------------------------
+>[Legionella        YD--------------------------------------- 381
+>[Cupriavidus       GRTNGKVIEIVEGLKPGARYAAANSFVLKAELGKSSAEHGH 520
+                                                             
