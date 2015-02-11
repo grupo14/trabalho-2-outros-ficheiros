@@ -1,0 +1,17 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[legionella       MNKQLNKRG---ITRLWLAQLGVTIILAGLCAILFGVNAASSALLGGLVCIIPNAYFAIK 57
+>[Pseudomonas      MPSRLP------AFRLLLVQLVVVLVAAISLWISWGPVAGYSGLLGGMIAWLPNCYFAYK 54
+>[Vibrio           MVAALARPGRELARQLLMIQSGAVIFVAAGMAVAINPDWGFSALIGGGIFVVANAVFALC 60
+                   *   *         :* : *  ..:. *    :  .   . *.*:** :  :.*. **  
+
+>[legionella       LFKHQGARAARQIVNSFYKGEALKIILSMFLFALVFLLCR-ITPAAFFASYILVLMTHWF 116
+>[Pseudomonas      AFRFSGARAAREIVRSFYAGEAGKLILTAVLFALAFAGVKPLMAPALFGVYLLTLMVSWC 114
+>[Vibrio           AFMFSGARAAKRIAASFYTGEVLKILITVALFYVAYMYMQ-VELVPLKLTYLLVLGINIC 119
+                    * ..*****:.*. *** **. *::::  ** :.:   : :   .:   *:*.*     
+
+>[legionella       APWIIVNKQNRPKSD 131
+>[Pseudomonas      APLLMGKTFTRP--- 126
+>[Vibrio           APVLFINNKK----- 129
+                   ** :: :. .     
