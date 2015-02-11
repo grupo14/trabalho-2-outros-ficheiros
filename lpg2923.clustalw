@@ -1,0 +1,74 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Bacillus         ---------MLTLNNISKSYKLGKEEVPILKHINLTVQAGEFLAIMGPSGSGKSTLMNII 51
+>[Bartonella       MKAKQAD-AVLVLENIVRKFPAGETFVTVLKDINLTIKRGEMVAIVGASGSGKSTLMNIL 59
+>[Legionella       MSWFMIDRPLIQLSDLVKTYHLEGISTTVLKAVSLTVNEGDLLAIVGASGSGKSTLMNII 60
+>[Pasteurella      ----MMNQPLIELKNIVRRYGHGDTETTVLKSINLKIYAGEMVAIVGASGSGKSTLMNLL 56
+                            :: *.:: : :      ..:** :.*.:  *:::**:*.**********::
+
+>[Bacillus         GCLDRPTSGTYTLDQIDILKGKDGALAEIRNESIGFVFQTFHLLPRLTALQNVELPMIYN 111
+>[Bartonella       GCLDRPTFGRYWISGKETASLSADELSALRRNHFGFIFQRYHLLNELTALGNVEIPAVYA 119
+>[Legionella       GLLDKPDAGTYTLNNRNVASLSDDEAADLRNQNIGFVFQQFNLLPRFTAMQNVALPLTYR 120
+>[Pasteurella      GVLDQADDGEYLFRGRQISTLSSDELADLRCYHFGFVFQRYHLLPHLTAVENVEIPAIYS 116
+                   * **:.  * * :   :  . . .  : :*   :**:** ::** .:**: ** :*  * 
+
+>[Bacillus         KVKKKERRQRAYEALEKVGLKDRVSYKPPKLSGGQKQRVAIARALVNQPRFILADEPTGA 171
+>[Bartonella       GYAPEVRRKRAEDLLTRLGMRDRIHHRPNQLSGGQQQRVSIARALMNNAEVILADEPTGA 179
+>[Legionella       GVNPTLIKEKVEQALDKVGMRQYIRHRPTQLSGGQQQRVAIARALVTDPQVILADEPTGA 180
+>[Pasteurella      AMEKEKRIERAQKLLCRLGLENQLKHKPSQLSGGQQQRVSIARALMNGGEIILADEPTGA 176
+                           ::. . * ::*:.: : ::* :*****:***:*****:.  ..*********
+
+>[Bacillus         LDTKSSEQILALFSELHREGKTIIMITHDPDVAKKADRTVFIRDGELVLDERGDISHA-- 229
+>[Bartonella       LDKKSGQEVLRILDELHQEGRTIIMVTHDMQVAERADRIIEISDGEIIADNVSKVAKTKT 239
+>[Legionella       LDSRTGSEVMNLFLALHQEGRTIIMVTHDEHVAAQCKRRITLADGAIIAESGQ------- 233
+>[Pasteurella      LDSQSSQEVLSVLKTLNHQGHTVVLITHDMQIASHADRIITMKDGEIIADSGVTQNLMKS 236
+                   **.::..::: ::  *:::*:*::::*** .:* :..* : : ** :: :.         
+
+>[Bacillus         ------------------------------------------------------------
+>[Bartonella       DSQALYGKQVLKDQKTLGFFRSFAERFREAFVMALLAMNAHRMRTFLTMLGVIIGIGAII 299
+>[Legionella       ------------------------------------------------------------
+>[Pasteurella      S------AQEVTPQLSSMHYLATLRRYHAAFLMAMHMMFAHKIRTLLTMLGIIIGIAAVV 290
+                                                                               
+
+>[Bacillus         ------------------------------------------------------------
+>[Bartonella       AMVALGNGTREKILENFKSLGSNTLTILPGKSLSDPQAEKITSLVEADAEALSKLPYVSG 359
+>[Legionella       ------------------------------------------------------------
+>[Pasteurella      CVIALGEGAKNKVLAEFSALGNNTIDIYPGKNWGDPDAIKIQTLNQVDLALLRQQPYLKG 350
+                                                                               
+
+>[Bacillus         ------------------------------------------------------------
+>[Bartonella       VTPQMSASSTIRFGSVEADVVIAGVGEQYFQTQGLNAVQGRLFDQKSVHDRAIDLVIEKE 419
+>[Legionella       ------------------------------------------------------------
+>[Pasteurella      ATPQISVDLPLRFLNRTVNASVYGVSDAFFQLRKHRLLSGRWFNAHDMATHQAVSVIDKK 410
+                                                                               
+
+>[Bacillus         ------------------------------------------------------------
+>[Bartonella       ALAVLFPHSHESPLGKVVHVGNVPVRIVGVIDPQHNGGTSSTLQVYLPYTTVQTRFLGTT 479
+>[Legionella       ------------------------------------------------------------
+>[Pasteurella      SQQVIFG--TESAVGKTVFIGQIPILIVGVVETPPQNIEGQRATIWLPYNTVVSRLYNQS 468
+                                                                               
+
+>[Bacillus         ------------------------------------------------------------
+>[Bartonella       QVRAITVKIADTVDSNLAETMVRRFLIMRHGEEDFFIRNSQLFRDRIMESTHILTLLVSS 539
+>[Legionella       ------------------------------------------------------------
+>[Pasteurella      YFQQITVQVKEHIAPDLAEKAIIDLLTIQHGRKDFFTFSSRKFLQSLQRTTQTLTMMISS 528
+                                                                               
+
+>[Bacillus         ------------------------------------------------------------
+>[Bartonella       IAAISLIVGGIGVMNIMLVTVSERINEIGVRMAVGARQSDILQQFLIEAILVCVIGGGLG 599
+>[Legionella       ------------------------------------------------------------
+>[Pasteurella      IAFISLVVGGIGVMNIMLVSVIERTREIGIRVAVGAKEKDILHQFLIESASVSLLGGMLG 588
+                                                                               
+
+>[Bacillus         ------------------------------------------------------------
+>[Bartonella       ILFGMSIGGLFLLFKAPIHLIYTIDSIILSLTFSTLIGVCFGFSPARQASRLDPVVALSR 659
+>[Legionella       ------------------------------------------------------------
+>[Pasteurella      VLLSLLLGGLFSAFTDSIKMQFTFSSFLIAFVCSSMIGMIFGYFPARNAARLKPVVALSQ 648
+                                                                               
+
+>[Bacillus         -
+>[Bartonella       D 660
+>[Legionella       -
+>[Pasteurella      E 649
+                    
