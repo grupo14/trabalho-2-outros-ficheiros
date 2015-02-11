@@ -1,0 +1,92 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Schizosaccharomyces      ----MAYYPHLPYHHHHHTSVPGERLSDPLDPLSADELKLAVEIIR-HEY 45
+>[Ogataea                  ----MERLRQIASQATAASAAP-ARPAHPLDPLSTAEIKAATNTVK-SYF 44
+>[Legionella               --------------------------MHVLDPLTLEEIQESCDILKREKE 24
+>[Arthrobacter             MTLQTTPSTPLVQDPPVPATLVHAAAQHPLEQLSAEEIHEARRILAEAGL 50
+                                                      . *: *:  *:: :   :     
+
+>[Schizosaccharomyces      PSKHFAFNVVTLEEPPKAKYLHWKYSKEDAHKPERIALAVLLEKGVPGIL 95
+>[Ogataea                  AGKKISFNTVTLREPARKAYIQWK--EQGGPLPPRLAYYVILEAGKPGVK 92
+>[Legionella               LSDSYRFAWVMTYEPPQQEVLHSS-----DTDFDRCAFLSVFNKKTNETF 69
+>[Arthrobacter             VGESTRFAYLGLIEPPK-TTRQGD-----VTGAARLVRAMLWDAAQSRSL 94
+                            ..   *  :   **.:    : .          * .   : :       
+
+>[Schizosaccharomyces      EARVNLTKAEVIQIEHITGVCP-----ILTADMLVNTEQIVRKDPAVIEQ 140
+>[Ogataea                  EGLVDLASLSVIETRALETVQP-----ILTVEDLCSTEEVIRNDPAVIEQ 137
+>[Legionella               EAVVNLNSKKVVEWKQIVFEAPPYGKPPILIEDFQKCEQIVKADPTWRAA 119
+>[Arthrobacter             DVRLSLATGLVVDRRELNPEAD--GQLPVLLEEFGIIEDILSEDPQWNAA 142
+                           :  :.* .  *:: . :           :  : :   *:::  **     
+
+>[Schizosaccharomyces      CILSGVPPDQMDHVYCDPWTIG-YDERYGNTRRMQQAMMYYRSNEDDSQY 189
+>[Ogataea                  CVLSGIPANEMHKVYCDPWTIG-YDERWGTGKRLQQALVYYRSDEDDSQY 186
+>[Legionella               MEKRGLDDEQIDNIQVDAFSAGYFDEEEEREQRIVKGISFYRDNLKDNGY 169
+>[Arthrobacter             LTARGLTPAQVR---VAPLSAGVFEYGNEEGKRLLRGLGFRQDHPADHPW 189
+                               *:   ::      . : * ::      :*: :.: : :..  *  :
+
+>[Schizosaccharomyces      SHPLD-FCPIIDTEDQKVVAIDIPPVRRPLSKHKHSNFNKKDIEAELGKM 238
+>[Ogataea                  SHPLD-FCPIVDTEEKKVIFIDIPNRRRKVSKHKHANFYPKHMIEKVGAM 235
+>[Legionella               ARPIEGVVAIVDLGNEKVLRVIDDGRNVPIPKEKIN----YDSDSYP-EK 214
+>[Arthrobacter             AHPIDGLVAFVDVENRRVNHLIDDGP-VPVPEVNGN----YTDPAIRGEL 234
+                           ::*:: . .::*  :.:*  :        :.: :                
+
+>[Schizosaccharomyces      R-EVKPISVTQPEGVNFRMKGRYIEWQNFRMHIGFNYREGIVLSDISYND 287
+>[Ogataea                  RPEAPPINVTQPEGVSFKMTGNVMEWSNFKFHIGFNYREGIVLSDVSYND 285
+>[Legionella               RKDLKPLDIIQAEGPSFKVNGWEVNWQNWSFHVGFTPREGLVLHQIKYLD 264
+>[Arthrobacter             RTDLLPIEIMQPEGPSFTLEGNHLSWAGWDLRVGFDAREGLVLHQLHHSH 284
+                           * :  *:.: *.** .* : *  :.* .: :::**  ***:** :: : .
+
+>[Schizosaccharomyces      NGHIRPLFYRMSIAEMVVPYGNPEHPHQRKHAFDLGEYGAGYLTNPLALG 337
+>[Ogataea                  HGNVRPIFHRISLSEMIVPYGSPEFPHQRKHALDIGEYGAGYMTNPLSLG 335
+>[Legionella               EGKERPIIYRASVTDMIVPYADPSVSHYWKSAFDAGEYGLGKLANELKLG 314
+>[Arthrobacter             KGRRRPVIHRASISEMVVPYGDPSPYRSWQNYFDSGEYLVGRDANSLRLG 334
+                           .*. **:::* *:::*:***..*.  :  :  :* ***  *  :* * **
+
+>[Schizosaccharomyces      CDCKGVIHYLDAHFVNNTGEVETVKNAICIHEEDDGVLFKHSDFRDKFRT 387
+>[Ogataea                  CDCKGVIHYLDAHFSDRAGDPITVKNAVCIHEEDDGLLFKHSDFRDNFAT 385
+>[Legionella               CDCLGNIYYFDVPAADDFGNSRLIKNAICMHEEDAGTLWKHYETRN--ST 362
+>[Arthrobacter             CDCLGDITYMSPVVADDFGNPRTIENGICIHEEDAGILWKHTDEWA--GS 382
+                           *** * * *:.    :  *:   ::*.:*:**** * *:** :      :
+
+>[Schizosaccharomyces      TISARGIRLVISQIFTAANYEYMVYWIFHMDGVIECELKLTGILNTYAMN 437
+>[Ogataea                  SLVTRATKLVVSQIFTAANYEYCLYWVFMQDGAIRLDIRLTGILNTYILG 435
+>[Legionella               FEVRRARELVVSFFTTIGNYDYGFYWRFGQDGSLKLEIKLTGIVQTAAIF 412
+>[Arthrobacter             DEVRRNRRLVVSFFTTVGNYDYGFYWYLYLDGTIEFEAKATGIVFTAAL- 431
+                               *  .**:* : * .**:* .** :  ** :. : : ***: *  : 
+
+>[Schizosaccharomyces      EGEDLKGWGTQVYPQVNAHNHQHLFCLRLNPMLDGYSNSVAVVDGVSGPG 487
+>[Ogataea                  DDEEAGPWGTRVYPNVNAHNHQHLFSLRIDPRIDGDGNSAAACDAKSSPY 485
+>[Legionella               -PEAQYEWGGKLTPELAAPTHQHFFNARLHMMVDGEKNSFSEHEFYPIAM 461
+>[Arthrobacter             -PDKDYAYASEIAPGLGAPYHQHLFSARLDMMIDGDANRVEELDLVRLPK 480
+                             :    :. .: * : *  ***:*  *:.  :**  *     :    . 
+
+>[Schizosaccharomyces      EPGSKENYYGNAFTTERTVPKTVKEAICDYNSDTSRTWDICNPNKLHPYS 537
+>[Ogataea                  PLGSPENMYGNAFYSEKTTFKTVKDSLTNYESATGRSWDIFNPNKVNPYS 535
+>[Legionella               GGKNP---YGNAFGSSQKTFEHEGEAARSACAQTQRTWKIFNPNSVN-GI 507
+>[Arthrobacter             GPGNP---HGNAFTQKRTLLARESEAVRDADGAKGRVWHISNPDSLN-HL 526
+                              .    :****  .:.      ::  .  . . * *.* **:.::   
+
+>[Schizosaccharomyces      GKPVSYKLVSRETPRLMARPGSLVSNRAGFARHHIHVTPYKDGQIYPAGD 587
+>[Ogataea                  GKPPSYKLVSTQCPPLLAKEGSLVAKRAPWASHSVNVVPYKDNRLYPSGD 585
+>[Legionella               GTAPAYKLELPETPLLLADEESYIYKRGGFASKQVWVTQYDPQEKYAAGD 557
+>[Arthrobacter             GHPVGYTLYPEGNPTLAMADDSSIASRAAFARHHLWVTRHAEEELYAAGD 576
+                           * . .*.*     * *     * : .*. :* : : *. :   . *.:**
+
+>[Schizosaccharomyces      YVPQTSGEPTKGLPEWIAEEPDASVDNTDIVVWHTFGITHFPAPEDFPLM 637
+>[Ogataea                  HVPQWSGDGVRGMREWIGDGS-ENIDNTDILFFHTFGITHFPAPEDFPLM 634
+>[Legionella               YPNQSSGG--CGLPAYIKQNR--KIDNENLVLWVTLGSTHFPRPEDFPVM 603
+>[Arthrobacter             FVNQHPGG--AVLPAYVAQDR--DIDGQDLVVWHSFGLTHFPRPEDWPIM 622
+                           .  * .*     :  :: :    .:*. :::.: ::* **** ***:*:*
+
+>[Schizosaccharomyces      PAEPIRLLLRPRNFFLRNPALDVPPSKNVTTSEVKQAHHHGNLHMMDMMK 687
+>[Ogataea                  PAEPITLMLRPRHFFTENPGLDIQPSYAMTTSEAKRAVH----------K 674
+>[Legionella               PTSIISAKLHPFGFFKRNPAMDLPQ--------GKVQEK----------- 634
+>[Arthrobacter             PVDTTGFTLKPHGFFDENPTLNVPSSAAGHCGTGSEREH----------- 661
+                           *..     *:*  ** .** :::           .   :           
+
+>[Schizosaccharomyces      SLTDATSEFAFGEKFCEKHKGDHFF 712
+>[Ogataea                  ETKDKTSRLAFEGSCCGK------- 692
+>[Legionella               -GDTCCSSLTY-------------- 644
+>[Arthrobacter             -AAPGGTAVGHSGPDTGGQGHCGH- 684
+                                 : . .              
