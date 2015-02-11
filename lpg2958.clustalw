@@ -1,0 +1,56 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[legionella      MHRDCVRQEGLHKLNNFFCKLAVVKRILQGMIFKRRLSDSVHEDSDSVATKQSPASVTCE 60
+>[Pyrococcus      -----------------------MRRILLSMIVLIFLASPILAKN--------------- 22
+>[Bacillus        -----------------MLQIKGFRAALLGIFLLSLLGVQLNAKAEK------------- 30
+>[Shigella        ------------------------------------------------------------
+                                                                              
+
+>[legionella      KGLSKLMQTSCIFIFLTLFLLIGLQTSFAAKIVELNIKGPIGPATVDYMERGIKSAQD-- 118
+>[Pyrococcus      ------------------------------IVYVAQIKGQITSYTYDQFDRYITIAEQDN 52
+>[Bacillus        -----------------------------QTVYVIPVEKNVEQGLASFLSRSLQDAKDAH 61
+>[Shigella        ------------------------------------------------------------
+                                                                              
+
+>[legionella      ADLIVILIDTPGGLYDSTRNIIQLFLLSDVPIVTYVSPTGARAASAGTYLMYASTIAAMA 178
+>[Pyrococcus      AEAIIIELDTPGGRADAMMNIVQRIQQSKIPVIIYVYPPGASAASAGTYIALGSHLIAMA 112
+>[Bacillus        ADHIILDINTPGGLVKSAIDMADLITESEIPVTAYVN---KRALSAGAYIALQADHIYMA 118
+>[Shigella        ------------------------------------------------------------
+                                                                              
+
+>[legionella      PGTQMGAASPVSLGTGFSEGEKDEKKKSTMENKVTHDAVATIRSLAQLRGRDPDFAEKAV 238
+>[Pyrococcus      PGTSIGACRPILG-------YSQNGSIIEAPPKITNYFIAYIKSLAQESGRNATIAEEFI 165
+>[Bacillus        PGGKMGAAAIVDG------------QGNAADQKAQSLWLAEMEDAAVKNNRDPKYALAMA 166
+>[Shigella        ------------------------------------------------------------
+                                                                              
+
+>[legionella      TEGKSITANEALSKGVVNYIAKNRDDLLSQIHGIKVSQ--NNKTITINTESPDIQVINPD 296
+>[Pyrococcus      TKDLSLTPEEALKYGVIEVVARDINELLKKSNGMKTKIPVNGRYVTLNFTNVEVRYLAPS 225
+>[Bacillus        DPDIDAKEVGAPKG---DLLTLNADKAIEVGYSEGTADNLSTLVKKLGFEKAQISYAKES 223
+>[Shigella        ------------------------------------------------------------
+                                                                              
+
+>[legionella      WRTRFLSVITNPTVAYLLLLLGIYG-IFFELVNPGYVLPGVVGAVSMLFALYALQLLPIN 355
+>[Pyrococcus      FKDKLISYITDPNVAYLLLTLGIWA-LIIGFLTPGWHVPETVGAIMIILAIIGFGYFGYN 284
+>[Bacillus        FAEKTARWLTNPVIVPILLTIAFLG-LTVELFSPGVGLPGTAGLIALLLFFYGHLAAGLA 282
+>[Shigella        -MSKTLNIIWQYLRAFVLIYACLYAGIFIASLLP-VTIPGSIIGMLILFVLLALQILPAK 58
+                     :    : :   . :*:   : . : .  . *   :*     : ::: : .       
+
+>[legionella      -YAGLGLIILGILFVIAEAFTP--SFGALGVGGTVS--FILGSIMLMN--TEHLAFQIAW 408
+>[Pyrococcus      -SAGILLIIVAMLFFIAEALTP--TFGLFTVAGLIT--FIIGGILLFGGGEEYLVRKEVF 339
+>[Bacillus        GYETVLLFIAGVILILLEIFLPGGIIGLLGLGAIIASLFLAAGSFTVMAVSLLIASAVSI 342
+>[Shigella        ---WVNPGCYVLIRYMALLFVP------IGVGVMQY-------------------FDLLR 90
+                      :      ::  :   : *      : :.                            
+
+>[legionella      SAIWAMAVLN----ILIFVLVLGMLIKSRNQKIR-HGLETLVGAKGRALGDINLEGQAVI 463
+>[Pyrococcus      SQLRILIITVGAILAAFFAFGMAAVIRAHKKKAR-TGKEEMIGLIGTVVEELNPEGMIKV 398
+>[Bacillus        TAFILLTRVLGKRMKFFKKLILNDSTNTESGYVSNQTRTDLMGKVGITFTPLRPSGTVII 402
+>[Shigella        AQFGPVVVSC-----AVCTLVVFLVVSWSSQLVH--GERKVVGQKGSEE----------- 132
+                  : :  :          .  : :       .          ::*  *              
+
+>[legionella      KGEIWNVHSSS--PIAANKSVKVTRASGLLLEVEEDQSVY--- 501
+>[Pyrococcus      RGELWKARSKFNGKIEKGEKVRVVDMDGLTLIVVRERKEGGEK 441
+>[Bacillus        DDERLDVVSEGS-FTEKDKKVKVIKVEGSRIVVREI------- 437
+>[Shigella        -------------------------------------------
+                                                             
