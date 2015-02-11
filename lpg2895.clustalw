@@ -1,0 +1,42 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Rickettsia         ------------------------------------------------------------
+>[Arabidopsis        MSWSKACRGTRISSYLENLHRTSQYPRTILCSRYYTHGACKSNEHYLRSKRVFWGSSSSW 60
+>[Rhizobium          ------------------------------------------------------------
+>[Sinorhizobium      ------------------------------------------------------------
+>[Mesorhizobium      ------------------------------------------------------------
+>[Legionella         ------------------------------------------------------------
+                                                                                 
+
+>[Rickettsia         ------------------------MSKK----SNKSLAFSLLGLIVSMVLLSFAAVPLYN 32
+>[Arabidopsis        SLNSHSATAKSMLDSAHRQYSTHSPSET----KSQKMLYYLTAVVFGMVGLTYAAVPLYR 116
+>[Rhizobium          -------------------MSDKAAAPRKQGRNNGAVVMMCLSFVFGMGAMSYAAVPLYR 41
+>[Sinorhizobium      -------------------MADTGQSDRKE-RSNGVIVGTCLAFVVGMVGMAYAAVPLYD 40
+>[Mesorhizobium      -------------------MSKKPAGKN----SNRIVAAVCLAFFTGMIGMAYAAVPLYK 37
+>[Legionella         ----------------------MMIEEK----KQKKLLTILTLLVLGMFAFGFALVPIYN 34
+                                                     ..  :      .. .*  : :* **:* 
+
+>[Rickettsia         LFCKVTGYGGTTNR-----ETVSIYSK--VKGTRPIIIEFDANVDKNLPWRFIPRQQRVQ 85
+>[Arabidopsis        TFCQATGYGGTVQRKETVEEKIARHSESGTVTEREIVVQFNADVADGMQWKFTPTQREVR 176
+>[Rhizobium          IFCQVTGYNGTTQRVE---------QMSSVVLDRKMRVTFDANVAPGLQWNFKPVEREVN 92
+>[Sinorhizobium      MFCRVTGYNGTTQRVE---------QESDLILDEKVKVTFDANVAAGLPWEFAPVQRDID 91
+>[Mesorhizobium      MFCQATGYGGTTQRVEK--------QYAGRVLDREITVRFDANIA-GVPWEFQPVQRSMT 88
+>[Legionella         SLCKNLGINGKTKMEAVAYDE----DKAKIAADREVLVEFVATNNSGVPWAFYPKTKKIK 90
+                      :*:  * .*..:            .       . : : * *    .: * * *  : : 
+
+>[Rickettsia         IVPGQNTLVFYETENLSDNDIIGTSIYNVTPNKAGKYFVKIHCFCFEEQLLKAGEKVLMP 145
+>[Arabidopsis        VKPGESALAFYTAENKSSAPITGVSTYNVTPMKAGVYFNKIQCFCFEEQRLLPGEQIDMP 236
+>[Rhizobium          PKIGETIQVNFVAENKSNETQRGQAVFNVTPGEAGAYFNKVQCFCFTETDLKPGEKLEMP 152
+>[Sinorhizobium      VRIGETVQITYRARNLASTPTTGQATFNVTPMAAGAYFNKVQCFCFTETTLQPGEEMEMP 151
+>[Mesorhizobium      MKIGETVQAHYQATNKFDRPVTGRATFNVQPELAGPYFNKVECFCFTDTSLKPGETVDMP 148
+>[Legionella         VHPGEIVKLAFYAENKTDHTMTVQAIPSVTPGIAAKYLKKTECFCFTQQTLNGHEAMNMP 150
+                        *:     : : *  .      :  .* *  *. *: * .**** :  *   * : **
+
+>[Rickettsia         VTFYIDKDFENDPEMRDVKVLTLSYSFFKVRDVKK----------------------- 180
+>[Arabidopsis        VFFYIDPEFETDPRMDGINNLILSYTFFKVSEENTTETVNNNNSVP----VQETN--- 287
+>[Rhizobium          VVFYIDPEIVKAVESKDIHTVTLSYTFYPKEGPKPVASNEGGT------VKIEKKL-- 202
+>[Sinorhizobium      VVFFVDPEIVKTVETKGIKTLTLSYTFYPREPSKPVAQVKS---------RTENKL-- 198
+>[Mesorhizobium      VLFYVDPDIVNVPELKDVKTITLSYTMFPVEKNKPVASSEPVQGTSKIISDTEANLGG 206
+>[Legionella         LLFHLDTDLP-----KNVNTVTLSYTLFDVTGRSSN---------------------- 181
+                     : *.:* ::       .:: : ***:::     .                        
