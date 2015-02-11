@@ -1,0 +1,58 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Corynebacterium         MMTMRIAMISIHTSPLQQPGSGDAGGMNVYIISIARELARRGVDVDIYTRATRPSQGDVV 60
+>[Methanocaldococcus      ---MKIAMVTWEYPPR------IVGGLAIHCKGLAEGLVRNGHEVDVITVGYDLPEYENI 51
+>[Streptomyces            -MHLLVRALVEEMAGR-----GVPHRVLTMSPPKVPKDIRIGQRIKVHARRLPVLP-IPS 53
+>[Sinorhizobium           -----MKVTHFHFGKD--------GGAERFFVHLVNALAERGVEQTAIIR---PGRGWRR 44
+>[Legionella              -----MKIFNAMFSKVN-------GGLEQVFLNYIPALSSQGNLVIPIIH----PKAEIR 44
+                               :                                   *                  
+
+>[Corynebacterium         EVESGLRVINIVAG---PYEGLSKEELPTQLAAFAGGVVQFAKCHHMRYDVIHSHYWLSG 117
+>[Methanocaldococcus      NGVNVYRVRPISHPHFLTWAMFMAEEMEKKLGILG----------VDKYDVIHCHDWMTH 101
+>[Streptomyces            DLEGYFGLVGAWAKGSLLWVLRNRKRLRREIGARV--------------HAHCDGSGAAA 99
+>[Sinorhizobium           DIEGAAKIRESHFRN----LSLDRILLPLKVKHMAR------------------------ 76
+>[Legionella              NSCPQDHLITVHNFNQHDFFAIHRLKKLIKIHQ--------------------------- 77
+                          :      :                     ::                             
+
+>[Corynebacterium         QVGWLLRDLWNIPLVHTAHTLAAVKNAHRSAGDTEESEARRICEQQLVDNADILVVNTPE 177
+>[Methanocaldococcus      FVGANLKHICRMPYVQSIHSTEIGRCGGLYS---DDSKAIHAMEYLSTYESCQVITVSKS 158
+>[Streptomyces            FYPYLMSRILGVPLVVQIHSSRYLSQHPTTLFERVTDPIAKWAERHAVRKAAAVLMLTDR 159
+>[Sinorhizobium           ---------REKPDVLMAWAPRASELMPNYKGAFKISRLGDYPTRLSYFRNTDCIVCNTP 127
+>[Legionella              ------------PDCIITHSYRAAYLFKKTR--TKVPKIAVCHVKGHYDFGTDAIIALTE 123
+                                      *      :                                  :     
+
+>[Corynebacterium         ETNDLVRHYDANPDSVAVIAPGANVELFTPGTQRNTEQ-SRRCLGIPLHTKVMAFVGRLQ 236
+>[Methanocaldococcus      LKEEVCSIFNTPEDKVKVIYNGINPWEFDINLSWEEKINFRRSIGVQDDEKMILFVGRLT 218
+>[Streptomyces            ARDEMRRKAQLPAERVHRLAY-LASDQFKDADTEARRAELRERYGLD-DRPIVLYVGRIA 217
+>[Sinorhizobium           GIAERVSDLGWKR-EIRVISNFTGTGRVVAVD--------RAKLDTPADAPVVMSMGRFV 178
+>[Legionella              QMRRDIINSGIEERRVFTIPNLIHIPDGLQYRE-----------PKNNQIPIIGVCARFA 172
+                                         :  :                             .  ::   .*: 
+
+>[Corynebacterium         QFKGPEVLLRAVAEMLERDPDRDMRVIMCGGPSGAAATVEHYIELTRSLGIAHRVRFLDP 296
+>[Methanocaldococcus      YQKGIEYLIRAMPKILER---HNAKLVIAG----SGDMRDYLEDLCYQLGVRHKVVFLGF 271
+>[Streptomyces            AEKGVEYYIEAAAELTRRG--RDCQFVIAG----DGPARPDLEKLIGARGLRDRVTITGF 271
+>[Sinorhizobium           ERKGFHTLIEAVARLPGVY------LWLLG----DGEERDNLHKLATDLGVSGRVRFAG- 227
+>[Legionella              AIKGVDVFINALAELKKRG--VAFQAKIAG----DGKEKEQYIELIRHHGLEHEITLLG- 225
+                            ** .  :.* ..:            : *     .       .*    *:  .: : . 
+
+>[Corynebacterium         RPPEELVSVYQAADVVAVPSYNESFGLVAMEAQASGTPVVAARVGGLPIAVVDGETGVLV 356
+>[Methanocaldococcus      VNGDTLKKLYKSADVVVIPSVYEPFGIVALEAMAAGTPVVVSSVGGLMEIIKHEVNGIWV 331
+>[Streptomyces            MSHEFIPSMISLGELVVLPSRYEELGIVILECMTMRRPLVAHDVNGVNKLIEDGTTGIVV 331
+>[Sinorhizobium           -WQDDTRPFLAAVDVFVMSSSHEPLGNVILESWAQGTPVVSTRSEGPQWFMRDGENGLMV 286
+>[Legionella              -WIEDKESFYKSIDIFCLPSREESFGLVVLESMMHSLPMVLTRLSGPLEIAGNSGCALFV 284
+                             :    .    ::. :.*  * :* * :*.     *:*     *      .   .: *
+
+>[Corynebacterium         DGHDPIMWADALEQLLDDDPTRQQMG-VAAVEHAANFTWAAAAEKLESVYGDAAMLDVAQ 415
+>[Methanocaldococcus      YPKNPDSIAWGVDRVLSDWGFREYIVNNAKKDVYEKYSWDNIAKETVNVYKIAMEMMGR- 390
+>[Streptomyces            PPFRTPEMADAVERLLDDPELRERMAENAAPLPAAKYSLSAAGDQLAGIYREIGL----- 386
+>[Sinorhizobium           DIGDAEGFARAIEQIVADNSLRTRLAERGHETLVGQFSREAITDAYLQLLASKP------ 340
+>[Legionella              PPEDPVSMADGLERLLRDKDLSKQLALKAFQR-VQHYSSTKVAPMLHKVLEKACEINQQ- 342
+                              .   * .::::: *      :   .      :::          :           
+
+>[Corynebacterium         CHDRYAAGSDRA 427
+>[Methanocaldococcus      ------------
+>[Streptomyces            ------------
+>[Sinorhizobium           ------------
+>[Legionella              ------------
+                                      
