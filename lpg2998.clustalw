@@ -1,0 +1,178 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+>[Saccharomyces            MGRTIRRRRSNSSLSEAISVSLGINQDSSVNKMHRASVSAMSPPLCRSYM 50
+>[Schizosaccharomyces      --------------------------------MPTHSLNQKRSLLYPSID 18
+>[Legionella               --------------------------------------------------
+>[Bacillus                 --------------------------------------------------
+>[Bradyrhizobium           --------------------------------------------------
+>[Trichoderma              --------------------------------------------------
+                                                                             
+
+>[Saccharomyces            SGFFTGGNSPMINNLSDSKLPISNKQHPKVIHGSENLHRQTAQLSNEFCS 100
+>[Schizosaccharomyces      NGSVPDSSFLSQSFRDTNDIHLLSARLASVEVDPETLPSNSPETNDDVSN 68
+>[Legionella               --------------------------------------------------
+>[Bacillus                 --------------------------------------------------
+>[Bradyrhizobium           --------------------------------------------------
+>[Trichoderma              --------------------------------------------------
+                                                                             
+
+>[Saccharomyces            SSVEENSPTIKDYMDIIGNGDRKDDQSMRTIEENIDEEYSDEYSRLLLS- 149
+>[Schizosaccharomyces      ----------YDYMSISSYQRAHSLASTSRNDFNYRPSEINETRPLLPER 108
+>[Legionella               --------------------------------------------------
+>[Bacillus                 --------------------------------------------------
+>[Bradyrhizobium           --------------------------------------------------
+>[Trichoderma              --------------------------------------------------
+                                                                             
+
+>[Saccharomyces            -PASSNVDDDRNRGLQNSSLPELEDGYAGGYQSLRPSHNLRFRPRNLWHM 198
+>[Schizosaccharomyces      EEHSSQLPPAQNQVLPFQSLNAPSKKLRG---------RISLSKIYQFFF 149
+>[Legionella               --------------------------------------------------
+>[Bacillus                 ----------------------------------------------MRFS 4
+>[Bradyrhizobium           -----------------------------------------------MTP 3
+>[Trichoderma              --------------------------------------------------
+                                                                             
+
+>[Saccharomyces            CTSFPSKFAHYLPAAVLGLLLNILDALSYGMIIFPITEPVFSHLGPTGIS 248
+>[Schizosaccharomyces      DDKGPILFILNIPAVIIGLLLNILDALSYGLILFPISDPLFKNLGADGLA 199
+>[Legionella               -MRGRMTRSQLILAILAGLVISIDNMISIVAFSSLIYQGALEIYIPLVIN 49
+>[Bacillus                 GRFKGYNLQKFQKDLIAGIVVGVVAIP--LGMAFAIASGVEPEYG----- 47
+>[Bradyrhizobium           PPASAWTRSKPPLLRFLDTCLNEFSAETSGAVADYIPELGNADPAYFGIS 53
+>[Trichoderma              --------------------------------------------------
+                                                                             
+
+>[Saccharomyces            MFYISTIISQAVYSGGWSSFPSGIGSEMIEITPFYHTMALAIKEALAG-N 297
+>[Schizosaccharomyces      IYYVSCVVSQLVYSLGGSFFKGSVGSEMIEVIPFFHQIAFTILNRVGE-D 248
+>[Legionella               ILAISVIIISASYLF-MSSPPYAIAQLQDEAAILYSAMGLVIIKSMPSSS 98
+>[Bacillus                 ---LYTVVIAGICISLFGGSKYQIGGPTGAFVPILFGIIMQYG------- 87
+>[Bradyrhizobium           ----LATLDGHVYEVGDSRVPFTIQSMS---KPFVFALALDLLG------ 90
+>[Trichoderma              --------------------------------------------------
+                                                                             
+
+>[Saccharomyces            DDE-IITTTIFCYVISSMLTGVVFYALGKLRLGKIVGFFPRHILIGCIGG 346
+>[Schizosaccharomyces      NPKSVIATTILAYCLSSILTGLVFFILGILRLGRLIEFFPRHILLGCIGG 298
+>[Legionella               TNEAIFITILFMLGVTTCLTGLSFYFVGKFRFGNIIRYLPYPVICGFMAA 148
+>[Bacillus                 ---------LENLLIAGFMAGVMLVLFGLFKLGKIMKFVPKPVIVGFTAG 128
+>[Bradyrhizobium           ----------AGRVESAIGVEPSGDPFNSIRLNSDNHPFNPMVNAGAIAC 130
+>[Trichoderma              ---------------------MSLPEAYQLEIQALNKQVLQTCPSDILQF 29
+                                                        :.:      .      .    
+
+>[Saccharomyces            VGYFLIITGIEVTTRVA-KFEYSWPFFSGLFTDYDTLAKWLLPVLLTVVL 395
+>[Schizosaccharomyces      VGSFLVLTAVEVSSRLEGSVSFNWASLSALFQP-MTFAKWSIPLFLSSAL 347
+>[Legionella               TGWLVLSGTFALLTGKALHQNWL------VFFHKEEILLWAPGFIAGIVV 192
+>[Bacillus                 IAVLIFTEQIANFLGLR-NVEKHENFHHNMFEIVQQLGTFNVYAILTAVI 177
+>[Bradyrhizobium           TGLIYDSKGAEAFEQIR----------------------LALSRFAGRDL 158
+>[Trichoderma              CADFFNSR-------------------------------LATERAASISL 48
+                            . :                                             :
+
+>[Saccharomyces            IGTQRYFKNSLVLPSFYILTLVLFHFIVAIIPTLSLDALRQAGWIFPIAN 445
+>[Schizosaccharomyces      EFAQQRWPHPFLIPSFFVIAPAIFYVLVWAIPGMSLEYLRETGWVFSSTE 397
+>[Legionella               YIFKEKLGYRYALQLMFISLVILFYALFYIFNLEYLVDPTEGYVLGPFNQ 242
+>[Bacillus                 GLVILLVSAKVMPKVPGALLALLISTVVAVVFFP--------DRMATIGS 219
+>[Bradyrhizobium           AVDEAVYSSESQTGDRNRAIGYLLKT------------------------ 184
+>[Trichoderma              FRDRGTPSPRFPPSPTN--------------------------------- 65
+                                                                             
+
+>[Saccharomyces            SDSKWYDHYRLFNVHKVHWSLVLQQIPTMMALTFFGILHVPINVPALAMS 495
+>[Schizosaccharomyces      TNVPWYHFYSLFSLRDTDWSALLATVPEMCALTFFGILHVPINVPALAIS 447
+>[Legionella               SHIDSLMKPEIWQMIHYPFSMTLLNYIGLVILVSFIALLLNASSYELIVN 292
+>[Bacillus                 TYGEIPRHLPEFQFPELTLDKMVMLFPAALVIALLGGLES-ILSAMVADN 268
+>[Bradyrhizobium           -------------------NAVISDNVAAVLDVYFRQCAVLVTARDIAVM 215
+>[Trichoderma              ------------------------PHFGMMSSQFSSPFGANANPFGGSSS 91
+                                                                             
+
+>[Saccharomyces            LQMDKYDVDRELIAHGYSNFFSGLLGSVQNYLVYTNSVLFIRAGADSPFA 545
+>[Schizosaccharomyces      LGLDFVDTDKELIAHGVSNTLSGAVGSIQNYMTYTNSLMFIRSGGNNRLA 497
+>[Legionella               KQLDLN---KELRIAGIGNVFSGLLGGMVGYLSLSASTVAKEYGG-ARII 338
+>[Bacillus                 MKGSKHDSNKELVGQGIANMAAPLFGGIPATGAIARTATNIKNGAVSPVS 318
+>[Bradyrhizobium           A--------ATLANRGINPVTG---EQVMSAYAISRTLSVMTSSGMYDYA 254
+>[Trichoderma              N------------PNPFGGSASPMSSSVMHRVVEEDESDNHLAPGGSLFS 129
+                                                .     :                .     
+
+>[Saccharomyces            GFLLIALTICIMIIGPVIISFIPICIVGSLIFLLGYELLVEALVDTWNKL 595
+>[Schizosaccharomyces      GIMLALATVALLVIGPGIIAYIPVWTVGCLIYLLGIELLKESLWDPIGIT 547
+>[Legionella               GVMAFVPMLLILCFGAVVVECFPKMAIGCYLFYIAFCFLSEWLINTWRLL 388
+>[Bacillus                 GVVHGVVVLLVLLVFAPYASHVPLASMAPILMVVAWNMSERKEVANMLRL 368
+>[Bradyrhizobium           G-------EWIYRIGIPAKSGVGGGILAALPARLGLGSYSPKLDKHGNSV 297
+>[Trichoderma              G--------AFGGDASTEAPPTLRAPPTTDSYPAQYNFSRRTSVSAESLK 171
+                           *         .                                       
+
+>[Saccharomyces            NRFEYLTVVIIVFTMGIFDFVLGIIVGILIACFSFLVDSTKLQTINGEYN 645
+>[Schizosaccharomyces      TKIEYFTICAIVFTMTVVDFVVGIVIGIIMACVFFVIQASSRSALRGIYS 597
+>[Legionella               NLSEYLIVLLILVIAIVFNMITAVAIGTVISIFIFAFRYSKINPVKYLFS 438
+>[Bacillus                 KNADSFILAATFALTVLFDLIIGVATGLLLAFVFFIRRMS---------- 408
+>[Bradyrhizobium           RGIKVCEALSSHYDLHMLNRSDDARNAVIADYDIGKSPSRR--------- 338
+>[Trichoderma              PSADGFDNWTPPYTDKTPEQVERLKYAIEGNFLFSHLDDEQ--------- 212
+                              .              :       .                       
+
+>[Saccharomyces            GNVARSTVYRDYVQTKFLDGIGEQIYVLKLQNLLFFGTIISIEEKIERLL 695
+>[Schizosaccharomyces      GGIVRSTVRRPMNQQRFLNEIGRQIQVCKLSGFLFFGTINGVEKNIAGLI 647
+>[Legionella               GADYNSSFERNPISQSILSTQGDEIQFLKLQGFLFFGSIYRLLQLIK--- 485
+>[Bacillus                 ---EATRIHNQETHPVLAKREDPSVSMYAIEGPLFFGSIDSLESSLLEHV 455
+>[Bradyrhizobium           --------VRRAQEREILAAHEQEVRIIELVGTLSLSAVDYVSRRLAG-- 378
+>[Trichoderma              -------------SAQILGALVEKPIPARGIKVISQGDAGDYFYVVER-- 247
+                                           :      .         :  .        :    
+
+>[Saccharomyces            QISNKDATKRRIKYLILDFKNINADNIDYSAAEGFNRIKRFTETKRIKLI 745
+>[Schizosaccharomyces      EELN--VSNNPLRFLIIDFSLVNG--ADFSVVQAFLRIRRMLATMNVQLC 693
+>[Legionella               -------SIQKARYIILDFELVYN--IDSSRIILMKNLKLHAEKNNISFA 526
+>[Bacillus                 Q--------KKPKTLILLMNKVHY--MDTSAEAVLGNIMNRIKRHNGKLM 495
+>[Bradyrhizobium           --------RPRPQFVIFDLHRVTS--TTRAGARLVAEAFEELAALNVTVV 418
+>[Trichoderma              ---------GSFDVYVNDCGFIEP--GPDGLGNKVGTIQAGGSFGELALM 286
+                                          :     :       .    .          .  . 
+
+>[Saccharomyces            ISSIKERDRIYNAFNNVGLLND----VELFADLNSALEWCENEFLFQYKQ 791
+>[Schizosaccharomyces      VCGLDETRSSFKTLTTMCFGGDDNCGCQVFEDVNSSLEYCENMLLDDYDV 743
+>[Legionella               ICSLKP--IVYHELMKTNLLQSKTNWLKVFTDQESALEWCEDQVIEKYTE 574
+>[Bacillus                 IVGLQS--QPKELLHKTGLFHKIG--KQHFFDHHDEITG----------- 530
+>[Bradyrhizobium           LSGVRRASKEWNTLREWTAELKN---VRDFYLLDTAIEWAEDQIVYRYGG 465
+>[Trichoderma              YNAPRAATIISAEGSCTLWALDRVTFRRILMESTFAR------------- 323
+                             .                  .     . :                    
+
+>[Saccharomyces            LRKKAKERLEEGKQNNVVSAVIAATKNKKIDTIGNGLNRGSNGDTARNLM 841
+>[Schizosaccharomyces      YRTKLLHKAG----------------------YSHTLAVPGKHKQNISMA 771
+>[Legionella               N---------------------------------------------INIE 579
+>[Bacillus                 --------------------------------------------------
+>[Bradyrhizobium           S--------------------------------------------IDFHE 471
+>[Trichoderma              ----------------------------------------------RRMY 327
+                                                                             
+
+>[Saccharomyces            SLPTNTPRNYQILSVAQNVFVNDEQAVKNFKKEYKDDEPVLPILLFALKQ 891
+>[Schizosaccharomyces      ETFSPSPRHDLLRQVAMSSVKAETKELSKFEKYAKYEQPFP--------- 812
+>[Legionella               EVTLEKQLLYLGFSSELVAWISEKASIKPYN------------------- 610
+>[Bacillus                 --------------------------------------------------
+>[Bradyrhizobium           TTELAEQPLLEGLSADELAELGAICTIRTYQS------------------ 503
+>[Trichoderma              ENFLEEVPILSSLTPYERSKISDALETQKFAP------------------ 359
+                                                                             
+
+>[Saccharomyces            YRPDIISEVQKVREKEIKFWAQLCPYFTRRRLASQSHLLHADN---IFFL 938
+>[Schizosaccharomyces      ---LLMQVFGEITTKREDFWLGLCPFFKKAFLRKGDLLWRKGDTPSKLVI 859
+>[Legionella               ---------------------------------PDDIICHEGEESNSVYF 627
+>[Bacillus                 --------------------------------------------------
+>[Bradyrhizobium           ----------------------------------GAKILTTGDPADALFF 519
+>[Trichoderma              ----------------------------------GDVIIHEGDPGHSFYL 375
+                                                                             
+
+>[Saccharomyces            VETGMLKATYELPQGTLYEIFSNGTCFGKIIAPGNAMPREQKLTIETETD 988
+>[Schizosaccharomyces      LETGMVKASYQMDRESLSENITCLCVVGELPFFSKTCYN---ATVVAELD 906
+>[Legionella               IHRGRVTAFVGDKR---VLVVGSGNVLGEIAIYTHKKRT---ATLKTNEK 671
+>[Bacillus                 --------------------------------------------------
+>[Bradyrhizobium           LRSG--AVHVTLPDGVRLATLTAGMAFGEMALLEQTRSA----DVFADMA 563
+>[Trichoderma              LESGEAAAFKGEEQ---VLSYKKGDFFGELALLNDAPRA---ASVIATSD 419
+                                                                             
+
+>[Saccharomyces            SVLWVIDSS---SLNKLK----EDNLALYVEVALMVMCIKDTRFKELLGY 1031
+>[Schizosaccharomyces      SAVWILDREGWETMLKSS----DKAEVIENEMLYLTLKMTRDKFNVFTNF 952
+>[Legionella               TIVYEIDLKSIQELSKNKPLLLVQFHVCMAKILANRLSVLNKRIKVFDST 721
+>[Bacillus                 --------------------------------------------------
+>[Bradyrhizobium           ATAFEAPLKDFERFREQHPRASERIMRNLAQLLADRLIVANAKVDILTST 613
+>[Trichoderma              VKVATLGKNAFQRLLGPVEGLLRRTRYLGVKTGVEEMDPLHTQ------- 462
+                                                                             
+
+>[Saccharomyces            TLVSA- 1036
+>[Schizosaccharomyces      ALNLYR 958
+>[Legionella               AILQ-- 725
+>[Bacillus                 ------
+>[Bradyrhizobium           ------
+>[Trichoderma              ------
+                                 
